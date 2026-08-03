@@ -1,0 +1,17 @@
+# Regla de privacidad: nada de lo que esté en privado/ sale de esta máquina.
+**/privado/
+
+# Fuentes originales (PDFs, libros, epub). Pesan y son material de terceros:
+# su copia de seguridad es OneDrive, no el repositorio remoto.
+biblioteca/fuentes/*
+!biblioteca/fuentes/.gitkeep
+
+# Ruido de Windows y OneDrive
+desktop.ini
+Thumbs.db
+.DS_Store
+*.tmp
+~$*
+
+# Log del backup
+scripts/backup.log
