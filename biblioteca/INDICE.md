@@ -54,6 +54,11 @@ un test de salto vale para natación artística, calistenia y entrenamiento pers
   hollow, plancha y flexiones, squat jump, espagats con tolerancias en cm, puente con grados,
   elevaciones colgada, pino-puente-remontada, dominadas en pronación y supinación, vertical sobre tres
   apoyos. **Es calistenia: las progresiones sirven igual en el gimnasio.**
+- **natación artística / medición** ·
+  [metricas-continuas-bateria-seco](metodos/metricas-continuas-bateria-seco.md) — convierte cada criterio
+  de apto/no apto en métricas continuas (cm, grados, segundos, repeticiones, nivel de asistencia), con
+  protocolo de medición, rúbricas de habilidad, esquema del `.csv` de registro y cadencia. Incluye qué NO
+  se mide y por qué (composición corporal, por riesgo de RED-S). **Pendiente de revisión de Daniel.**
 
 ## Material propio (`propio/`)
 
