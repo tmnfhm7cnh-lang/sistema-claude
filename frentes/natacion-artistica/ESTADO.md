@@ -26,15 +26,41 @@ objetivo propio es más alto — llegar el día 9 con el trabajo hecho de verdad
 
 ## Próximo paso
 
-Montar el **índice de la programación de temporada** y, a partir de él, la lista de lo que le falta
-saber. Ese índice es lo que convierte "formarme en natación artística" en tareas de 30 minutos.
+**Mandar al club las siete preguntas del bloque 0** del índice de programación. Desbloquean seis
+casillas de golpe y no requieren estudiar nada. Es la tarea de mayor rendimiento por minuto del
+proyecto.
+
+## Estado del trabajo *(2026-08-03)*
+
+26 fuentes subidas, triadas y clasificadas. Tres documentos de trabajo producidos:
+
+- [`programacion/indice-programacion-temporada.md`](programacion/indice-programacion-temporada.md) — la
+  diana: 48 casillas, 15 ya cubiertas. Dice exactamente qué falta y en qué orden.
+- [`analisis-programa-actual-club.md`](analisis-programa-actual-club.md) — qué hace hoy AQUAMADSINCRO en
+  seco, qué conservar y qué falta.
+- [`bateria-test-seco-federacion-madrid.md`](../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md)
+  — las pruebas oficiales de nivel con sus criterios de apto.
+- [`triaje-fuentes-natacion-artistica.md`](../../biblioteca/notas/triaje-fuentes-natacion-artistica.md)
+  — qué es cada fuente y cuáles están leídas de verdad.
+
+**Hallazgo que cambia el enfoque:** el club ya tiene un programa de seco con muy buen trabajo de
+flexibilidad y técnica específica. No hace falta rediseñarlo. Lo que falta es fuerza progresiva,
+periodización con las pruebas de nivel como hitos, registro individual y trabajo de apnea. Y la batería
+oficial de test en seco **es calistenia** (dominadas, verticales, planchas, hollow, espagats): la
+transferencia desde tu especialidad es directa.
+
+**Restricción de material confirmada:** 2 mancuernas de 3 kg, 1 de 2 kg, balones medicinales de 4 y
+5 kg, 2 discos de 2,5 kg, gomas y tobilleras. No se puede desarrollar fuerza por carga externa: hay que
+progresar por dificultad de ejercicio corporal.
 
 ## Datos que faltan
 
-- Número de atletas y edades: **sin confirmar**.
-- Si el club tiene datos previos (Excel u otro formato): **probablemente no**; asume que los datos
-  saldrán de las anotaciones de Daniel.
-- Calendario de competición de la temporada: sin confirmar.
+Los siete del bloque 0 del índice de programación: número de atletas y edades, días y minutos de seco,
+horas de agua, calendario de competición y de pruebas de nivel, espacio y material reales, quién llevaba
+el seco antes y qué espera el club, y modalidades y roles.
+
+Además: faltan por subir las fuentes numeradas **3, 9, 12, 13, 14, 15** y `AQUAMAD 3` — hay huecos en la
+numeración. Y la guía de la Federación Madrileña está sin leer; puede contener ya el calendario.
 
 ## Decisiones
 
