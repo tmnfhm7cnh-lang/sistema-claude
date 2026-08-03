@@ -12,7 +12,12 @@ cafeína y salto vertical, y un par de trabajos académicos propios.*
 
 ## Notas (`notas/`)
 
-*Vacío.*
+- **gimnasia artística / coreografía** · [inventario-gimnasia-artistica-uem](notas/inventario-gimnasia-artistica-uem.md)
+  — índice de los 536 archivos de la asignatura Gimnasia Artística III (UEM): vídeo técnico por
+  aparatos, normativa FIG, planificación del entrenamiento y **preparación coreográfica**. El material
+  pesa 20 GB y vive en disco local, fuera del sistema. Sirve a **natación artística** (deporte
+  coreográfico) y a **calistenia** (la carpeta de anillas es todo planche, front lever y fuerza en
+  anillas).
 
 ## Métodos (`metodos/`)
 
