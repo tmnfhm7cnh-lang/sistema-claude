@@ -87,8 +87,16 @@ Sirve a natación artística (5 GB de preparación coreográfica) y a calistenia
 
 Acciones, con su OK: copia buena movida a `C:\Users\usuario\Archivo-UEM\`; copia del OneDrive personal
 eliminada (recuperable 30 días en la papelera web); copia de la UEM enviada a la papelera de Windows.
-Resultado: OneDrive personal de 20,3 GB a **0,3 GB**, disco de 801 a **821 GB libres**. **No hace falta
-pagar nube.**
+Resultado en disco local: de 20,3 GB a **0,3 GB**, y el disco C: de 801 a **821 GB libres**.
+
+**Corrección (2026-08-03, misma tarde):** en OneDrive **la papelera de reciclaje sigue contando para la
+cuota**. Eliminar el zip no libera la cuota de la nube hasta que se vacíe la papelera web, o hasta que
+caduque solo a los 30 días. Queda **pendiente de Daniel**: entrar en onedrive.com, papelera de
+reciclaje, y eliminar definitivamente `OneDrive_2024-01-22.zip` (los borrados permanentes los hace él,
+no yo). Es seguro: la copia buena está en `C:\Users\usuario\Archivo-UEM\` y se verificó por MD5.
+Hasta que lo haga, la cuota sigue llena y las subidas nuevas pueden fallar.
+
+**No hace falta pagar nube**, pero sí vaciar esa papelera.
 
 Nota: 148 de los 536 archivos aparecen con 0 bytes también en origen — la exportación de 2024 falló en
 ellos. Probablemente ya estaban dañados; no verificado abriendo uno.
