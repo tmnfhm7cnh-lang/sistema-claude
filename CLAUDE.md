@@ -204,3 +204,11 @@ buffer/        lo dudoso; se vacía al cerrar sesión
 archivo/       material viejo que no se borra pero no estorba
 scripts/       backup.ps1 (commit + push diario a las 22:00)
 ```
+
+**Dónde está el repositorio.** La base de datos de git **no vive dentro de OneDrive**: está en
+`C:\Users\usuario\git-repos\sistema-claude.git`, y en la carpeta solo queda un archivo `.git` que
+apunta allí. Se hizo así el 2026-08-03 porque git reescribe medio centenar de archivos internos en
+cada commit y OneDrive los re-sincronizaba sin parar, con riesgo de conflictos. Los comandos de git
+funcionan igual desde la carpeta del sistema; no toques ese archivo `.git`.
+
+Remoto: `https://github.com/tmnfhm7cnh-lang/sistema-claude.git` (privado), rama `main`.
