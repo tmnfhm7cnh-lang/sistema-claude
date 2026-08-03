@@ -74,6 +74,25 @@ importante — le pidió limpiar el ordenador y no llegó a hacerse.
 Qué haré: mirar qué hay dentro de `instasssss` (puede haber trabajo de Instagram aprovechable) y
 enseñarle el inventario antes de borrar nada.
 
+## Lote 6 — Revisión de los 21 GB del OneDrive personal ✅ *(2026-08-03)*
+
+Resuelto el mismo día. El 98 % de la cuota era **un solo archivo**: `OneDrive_2024-01-22.zip`, 20 GB,
+una exportación del propio OneDrive de enero de 2024 re-subida a OneDrive. Existía tres veces
+(Descargas, OneDrive personal, OneDrive UEM), y las dos copias locales resultaron **idénticas byte a
+byte** (MD5 `16FDCE5F219BB82FA1697BB33584D09B`).
+
+Contenido: 536 archivos de la asignatura *Gimnasia Artística III* (UEM). No era basura — indexado en
+[`biblioteca/notas/inventario-gimnasia-artistica-uem.md`](biblioteca/notas/inventario-gimnasia-artistica-uem.md).
+Sirve a natación artística (5 GB de preparación coreográfica) y a calistenia (anillas).
+
+Acciones, con su OK: copia buena movida a `C:\Users\usuario\Archivo-UEM\`; copia del OneDrive personal
+eliminada (recuperable 30 días en la papelera web); copia de la UEM enviada a la papelera de Windows.
+Resultado: OneDrive personal de 20,3 GB a **0,3 GB**, disco de 801 a **821 GB libres**. **No hace falta
+pagar nube.**
+
+Nota: 148 de los 536 archivos aparecen con 0 bytes también en origen — la exportación de 2024 falló en
+ellos. Probablemente ya estaban dañados; no verificado abriendo uno.
+
 ## Lote 5 — Unificar iOS
 
 **Estado:** progresivo, y es el único lote que depende de él.
