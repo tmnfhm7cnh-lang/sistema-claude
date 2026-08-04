@@ -74,10 +74,10 @@ nadadoras se examinan esta temporada (viene en un adjunto que aún no está subi
 
 | # | Apartado | Estado |
 |---|---|---|
-| 5.1 | Fases de la temporada y objetivo de cada una, con las pruebas de nivel como hitos | 🟡 **Ya se puede hacer**: hay 6–7 semanas hasta las pruebas de Infantil y 12–13 hasta las de Alevín desde el 9 de septiembre |
-| 5.2 | Progresión de carga semanal y criterios de ajuste | 🟡 `19-soligard-ioc-load`, `20-schwellnus-ioc-load`, `21-gabbett` |
-| 5.3 | Estructura de la sesión tipo (calentamiento, bloque principal, vuelta a la calma) por categoría | 🔴 |
-| 5.4 | Semanas de descarga y gestión de picos de competición | 🟡 |
+| 5.1 | Fases de la temporada y objetivo de cada una, con las pruebas de nivel como hitos | ✅ [`macroestructura-bloque-1.md`](macroestructura-bloque-1.md) — fases para los tres grupos |
+| 5.2 | Progresión de carga semanal y criterios de ajuste | 🟡 Progresión por dificultad definida por patrón; criterios de ajuste finos, pendientes |
+| 5.3 | Estructura de la sesión tipo por categoría | ✅ Sesión de 45 min (Alevín e Infantil, antes del agua) y de 75 min (Junior), minuto a minuto |
+| 5.4 | Semanas de descarga y gestión de picos de competición | 🟡 Fase de afinado antes de cada prueba definida. El calendario de competición llega en septiembre |
 
 ## Bloque 6 — Medición y seguimiento
 
