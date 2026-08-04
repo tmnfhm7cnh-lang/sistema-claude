@@ -10,6 +10,20 @@
 > elevaciones y 5 s**). Al llegar los originales en Word el texto se lee limpio y completo. **Fíate de
 > esta.**
 
+> 🔴 **Verificar con el club antes de programar sobre esto: los documentos parecen ser de una temporada
+> anterior.** Los años de nacimiento que declaran no cuadran con las categorías actuales:
+>
+> | Documento | Años que declara | Categoría del club en 2026-27 |
+> |---|---|---|
+> | Alevín 1 | 2014 y posteriores | Alevín = 2015–2017 |
+> | Alevín 2 | 2013 | — |
+> | Infantil | 2011, 2012, 2013 (+2010 masculinos) | Infantil = 2012–2014 |
+> | Infantil B | 2010, 2011, 2012 (+2009 masculinos) | Junior = 2009–2011 |
+>
+> Lo más probable es que las pruebas se mantengan y solo se desplacen los años, pero **hay que pedir los
+> documentos de la temporada en vigor**: si algún criterio ha cambiado, toda la programación apunta al
+> sitio equivocado.
+
 Cada nivel tiene pruebas de agua y de seco, numeradas de forma continua. Aquí solo van **las de seco**,
 con su número oficial para poder citarlas.
 

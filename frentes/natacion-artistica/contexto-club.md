@@ -150,6 +150,16 @@ El club dice haber adjuntado varios documentos que **todavía no están en el si
 Los puntos 3 a 6 son material valioso: permiten ver cómo trabajan de verdad y no repetir lo que ya
 funciona. Van a `biblioteca/fuentes/natacion-artistica/`.
 
+## Pregunta prioritaria para la llamada
+
+**Los documentos de las pruebas de nivel parecen ser de una temporada anterior.** Declaran años de
+nacimiento que no cuadran con las categorías actuales (Alevín 1 dice "2014 y posteriores" cuando el Alevín
+del club es 2015–2017; Infantil dice 2011–2013 cuando el club lo define como 2012–2014). Detalle en
+[la batería](../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md).
+
+Hay que pedir **los documentos en vigor para 2026-27**. Probablemente solo cambien los años, pero toda la
+programación se ancla en esos criterios y no se puede construir sobre una versión caducada.
+
 ## Decisión pendiente de Daniel
 
 **¿Dónde vive la correspondencia entre código y nombre de cada nadadora?** Mi recomendación: **fuera del

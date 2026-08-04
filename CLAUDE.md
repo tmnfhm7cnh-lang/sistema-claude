@@ -205,6 +205,17 @@ archivo/       material viejo que no se borra pero no estorba
 scripts/       backup.ps1 (commit + push diario a las 22:00)
 ```
 
+**Herramientas instaladas para leer documentos** *(2026-08-03, con su permiso)*:
+
+- **`pdftotext` (poppler 26.02.0)** en `C:\Users\usuario\tools\poppler-26.02.0\Library\bin`, añadido al
+  PATH de usuario. Úsalo siempre para PDFs: `pdftotext -layout -enc UTF-8 entrada.pdf salida.txt`.
+  Conserva acentos y estructura de tablas. El paquete trae también `pdfinfo`, `pdfimages` y `pdftoppm`
+  (este último habilita la lectura de PDF como imagen con la herramienta Read).
+- **`.docx`**: se leen abriendo el zip y parseando `word/document.xml`. No hace falta Word — que además se
+  cuelga al convertir PDFs, no lo intentes.
+- `scripts/pdftext.ps1` es el extractor propio que se escribió antes de tener poppler. **Ya no hace falta**;
+  se conserva solo como respaldo si algún día falta la herramienta.
+
 **Dónde está el repositorio.** La base de datos de git **no vive dentro de OneDrive**: está en
 `C:\Users\usuario\git-repos\sistema-claude.git`, y en la carpeta solo queda un archivo `.git` que
 apunta allí. Se hizo así el 2026-08-03 porque git reescribe medio centenar de archivos internos en
