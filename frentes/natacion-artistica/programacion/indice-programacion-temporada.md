@@ -10,20 +10,23 @@ cerrar, o si depende de un dato que solo tiene el club.
 
 ---
 
-## Bloque 0 — Datos que solo puede darte el club *(bloquean el resto)*
+## Bloque 0 — Datos del club ✅ *(respondido el 2026-08-03)*
+
+Todo el detalle en [`contexto-club.md`](../contexto-club.md). Resumen:
 
 | # | Dato | Estado |
 |---|---|---|
-| 0.1 | **Cuántas atletas, de qué edades y en qué categorías** (alevín, infantil, infantil B, junior) | ❓ |
-| 0.2 | **Días y minutos de seco por grupo.** Los documentos sugieren jueves para alevín y martes para infantil, 1–2 días/semana | ❓ |
-| 0.3 | **Horas semanales de agua** de cada grupo — sin esto no se puede gestionar carga total | ❓ |
-| 0.4 | **Calendario de competición** de la temporada y fechas de las pruebas de nivel | ❓ |
-| 0.5 | **Espacio y material reales** del seco (sala, barra fija/espaldera, colchonetas). Inventario conocido: 2×3 kg + 1×2 kg mancuernas, balones de 4 y 5 kg, 2 discos de 2,5 kg, gomas, tobilleras | 🟡 |
-| 0.6 | **Quién llevaba el seco hasta ahora y qué espera el club de ti** — ¿continuidad o rediseño? | ❓ |
-| 0.7 | **Modalidades que compiten** (solo, dúo, equipo, acrobático) y **roles** dentro del equipo (base / arriba) | ❓ |
+| 0.1 | Atletas, edades y categorías | ✅ 28 nadadoras. Alevín 9–11 años (12), Infantil 12–14 (10), Junior 15–17 (6) |
+| 0.2 | Días y minutos de seco | ✅ Alevín y Infantil: 2×45 min (martes y jueves). Junior: 1×75 min (viernes) |
+| 0.3 | Horas de agua | 🟡 Alevín 9 h, Junior 12 h. **Infantil sin hora de inicio** |
+| 0.4 | Calendario | 🟡 Federativo en septiembre. **Pruebas de nivel: Infantil finales de octubre, Alevín principios de diciembre. Junior no tiene** |
+| 0.5 | Espacio y material | ✅ Sala con colchonetas, patio de césped, polideportivo puntual. Gomas, theraband, gomas de números, bloques, esterillas, tobilleras lastradas, pelotas, mancuernas, sliders, barra de peso. **Aceptan comprar más** |
+| 0.6 | Expectativa del club | ✅ Prioridades declaradas: fuerza, flexibilidad activa y pasiva, extensión corporal, control postural, estabilidad. Base antes de acrobacias. Exigencia de club nacional |
+| 0.7 | Modalidades y roles | 🔴 **Sin responder.** Queda para la llamada |
 
-> Estas siete preguntas son un solo correo o una llamada. Es la tarea de mayor rendimiento por minuto
-> de todo el proyecto, y no depende de estudiar más.
+**Lo que sigue bloqueado y hay que resolver en la llamada:** hora de inicio del agua de Infantil, el
+solape del viernes en Junior (seco 17:30–18:45 contra agua desde las 18:00), modalidades y roles, y qué
+nadadoras se examinan esta temporada (viene en un adjunto que aún no está subido).
 
 ## Bloque 1 — Punto de partida: qué exige el deporte
 
@@ -71,7 +74,7 @@ cerrar, o si depende de un dato que solo tiene el club.
 
 | # | Apartado | Estado |
 |---|---|---|
-| 5.1 | Fases de la temporada y objetivo de cada una, con las pruebas de nivel como hitos | 🔴 Depende de 0.4 |
+| 5.1 | Fases de la temporada y objetivo de cada una, con las pruebas de nivel como hitos | 🟡 **Ya se puede hacer**: hay 6–7 semanas hasta las pruebas de Infantil y 12–13 hasta las de Alevín desde el 9 de septiembre |
 | 5.2 | Progresión de carga semanal y criterios de ajuste | 🟡 `19-soligard-ioc-load`, `20-schwellnus-ioc-load`, `21-gabbett` |
 | 5.3 | Estructura de la sesión tipo (calentamiento, bloque principal, vuelta a la calma) por categoría | 🔴 |
 | 5.4 | Semanas de descarga y gestión de picos de competición | 🟡 |

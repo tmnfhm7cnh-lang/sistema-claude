@@ -7,7 +7,7 @@ journal, no aquí. El detalle real de cada frente vive en su `ESTADO.md`.
 
 | Frente | Estado | Próximo paso | Último toque | Detalle |
 |---|---|---|---|---|
-| Natación artística | 🔴 Urgente — plazo 2026-09-09 | Mandar al club las 7 preguntas del bloque 0 del índice de programación | 2026-08-03 | [ESTADO](frentes/natacion-artistica/ESTADO.md) |
+| Natación artística | 🔴 Urgente — plazo 2026-09-09 | Diseñar la macroestructura hasta las pruebas de nivel (Infantil finales de oct., Alevín principios de dic.) | 2026-08-03 | [ESTADO](frentes/natacion-artistica/ESTADO.md) |
 | Regularización laboral | ⏸ Bloqueado — espera gestoría | Reclamar a ADA SEQUOR la documentación de BOMADRIL | 2026-08-03 | [ESTADO](frentes/regularizacion-laboral/ESTADO.md) |
 | BOMADRIL, S.L. | ⏸ Bloqueado — espera gestoría | Decidir si el club se factura por la S.L. o como autónomo | 2026-08-03 | [ESTADO](frentes/bomadril/ESTADO.md) |
 | Entrenador personal | 🟢 Activo, sin cambios | Definir cómo registrar el seguimiento del cliente | 2026-08-03 | [ESTADO](frentes/entrenador-personal/ESTADO.md) |

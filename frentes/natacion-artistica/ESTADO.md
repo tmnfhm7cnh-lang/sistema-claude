@@ -32,9 +32,23 @@ programan desde aquí.
 
 ## Próximo paso
 
-**Mandar al club las siete preguntas del bloque 0** del índice de programación. Desbloquean seis
-casillas de golpe y no requieren estudiar nada. Es la tarea de mayor rendimiento por minuto del
-proyecto.
+**Diseñar la macroestructura del primer bloque** (9 de septiembre → pruebas de nivel), con las dos anclas
+reales: pruebas de Infantil a finales de octubre y de Alevín a principios de diciembre.
+
+Antes o en paralelo: **subir los adjuntos que mandó el club** (planificaciones anteriores, calendario de
+la temporada pasada, tablas de flexibilidad, y el documento con las nadadoras que se examinan) y **aceptar
+la llamada** que propone la entrenadora, con las preguntas abiertas de
+[`contexto-club.md`](contexto-club.md) delante.
+
+## El club ya respondió *(2026-08-03)*
+
+Todo el contexto operativo en [`contexto-club.md`](contexto-club.md): **28 nadadoras en tres categorías**
+(Alevín 9–11, Infantil 12–14, Junior 15–17), seco de 2×45 min en Alevín e Infantil y **1×75 min en
+Junior**, instalaciones y material real, y las prioridades que pide el club — fuerza, flexibilidad activa
+y pasiva, extensión corporal, control postural y estabilidad, como base previa a las acrobacias.
+
+Tres datos que cambian el diseño: **el seco es solo el 9–14 % del tiempo total de entrenamiento**, **va
+inmediatamente antes del agua** en Alevín e Infantil, y **Junior solo entrena seco un día por semana**.
 
 ## Estado del trabajo *(2026-08-03)*
 
