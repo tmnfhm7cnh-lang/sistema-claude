@@ -144,10 +144,22 @@ Ahí van solo **hechos duraderos sobre él**: quién es, preferencias de cómo t
 que te ha hecho, referencias externas. **No** el estado de los proyectos (eso es `ESTADO.md`), **no**
 lo que ya está escrito en cualquier archivo de este sistema.
 
-Ojo: Claude Code deriva ese directorio de la ruta desde la que se abre la sesión. **Las sesiones se
-abren siempre en `C:\Users\usuario\OneDrive\Claude`.** Si alguna se abre desde otra ruta (por ejemplo
-la carpeta vacía `Desktop\Claude` que quedó del arranque), la memoria apuntará a otro directorio y
-estos hechos no se cargarán: si detectas que `MEMORY.md` no está cargado, avísale antes de seguir.
+Claude Code deriva ese directorio de la ruta desde la que se abre la sesión. **Abrid siempre
+`C:\Users\usuario\OneDrive\Claude`.**
+
+Red de seguridad montada el 2026-08-04, porque abrió una sesión en `Desktop\Claude` por costumbre:
+
+1. `projects\C--Users-usuario-Desktop-Claude\memory` es un **enlace** al directorio de memoria real. Así,
+   una sesión abierta en `Desktop\Claude` **sí carga estos hechos**.
+2. `Desktop\Claude` sigue siendo una carpeta vacía con un `CLAUDE.md` de aviso, porque no se puede
+   sustituir mientras haya sesiones usándola. Hay un script en la **carpeta de Inicio de Windows**
+   (`claude-enlazar-escritorio.cmd`, copia en `C:\Users\usuario\tools\`) que en el próximo inicio de
+   sesión la convierte en un enlace a la carpeta real y **se autoelimina** al lograrlo.
+3. Cuando eso ocurra, las dos rutas serán la misma carpeta y el problema desaparece. Si ves que
+   `Desktop\Claude\STATUS.md` existe, ya está hecho. Si no, el script sigue pendiente.
+
+Mientras no esté hecho: si detectas que `MEMORY.md` no se ha cargado o que estás en `Desktop\Claude`,
+dilo antes de escribir nada.
 
 ## 10. Protocolo de sesión
 
