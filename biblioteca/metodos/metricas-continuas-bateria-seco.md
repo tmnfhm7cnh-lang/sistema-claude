@@ -77,15 +77,16 @@ confirmar]`, máximo 1 incompleta. Lumbar sin curvarse más allá de la fisioló
 **Criterio oficial:** 10 repeticiones completas, 90° de rodilla, rodillas no pasan las puntas de los
 pies, extensión completa y despegue. Altura mínima: **un palmo**.
 
-> ⚠️ "Un palmo" no es una unidad. Yo asumo **20 cm** como equivalente operativo (rango habitual 18–22).
-> **Confírmalo con el club**, porque cambia quién pasa y quién no.
+> ✅ **Un palmo = 20 cm.** Confirmado por Daniel el 2026-08-03. Es el umbral operativo en todas las
+> pruebas donde el criterio oficial dice "un palmo": squat jump, burpee y apertura del espagat por
+> encima de 180°.
 
 | Métrica continua | Unidad | Cómo se mide |
 |---|---|---|
 | Altura de salto media de las 10 | cm | Lo más fiable sin plataforma: **jump-and-reach** — marca de alcance de pie contra la pared, menos marca alcanzada en el salto. También sirve una app de vuelo por vídeo a 240 fps |
 | Altura de la mejor repetición | cm | Ídem |
 | Índice de fatiga: caída de altura entre las reps 1-3 y las 8-10 | % | `(media 1-3 − media 8-10) / media 1-3 × 100` |
-| Repeticiones que superan el umbral | reps de 10 | Con el umbral que confirme el club |
+| Repeticiones que superan los 20 cm | reps de 10 | Umbral oficial (un palmo = 20 cm) |
 | Fallos técnicos por rodilla adelantada o extensión incompleta | reps | Vídeo frontal y lateral |
 
 **Qué te dice:** el índice de fatiga separa **potencia** de **resistencia a la potencia**. Una atleta
@@ -158,7 +159,7 @@ dos cosas o entrenarás lo que no falla.
 
 **Criterio oficial:** secuencia completa (salto → sentadilla → plancha → flexión → sentadilla → salto con
 manos arriba), `[nº sin confirmar, posiblemente 12]` repeticiones completas, máximo 1 incompleta, salto de
-más de un palmo, lumbar rígida.
+más de un palmo (20 cm), lumbar rígida.
 
 | Métrica continua | Unidad |
 |---|---|
@@ -242,7 +243,7 @@ verdad) y **número de intentos**.
 
 ### 12. Apertura del espagat por encima de 180°
 
-**Criterio oficial:** un palmo por encima de los 180° en ambas piernas.
+**Criterio oficial:** un palmo (20 cm) por encima de los 180° en ambas piernas.
 
 | Métrica continua | Unidad |
 |---|---|
@@ -302,8 +303,7 @@ Esto conviene que se lo digas al club **antes** de que alguien te lo pida. Te po
 
 ## Lo que necesito que revises
 
-1. **"Un palmo" = 20 cm.** Es mi supuesto operativo, no un dato. Afecta al squat jump y al burpee.
-   Pregúntalo, o mide el palmo de referencia que use la federación.
+1. ✅ **Resuelto (2026-08-03): un palmo = 20 cm.** Aplicado en todo el documento.
 2. **Número de flexiones en la prueba de alevín 1** y **número de burpees en alevín 2**: no se
    extrajeron del PDF. En el texto solo aparecen "12" y "10" como recuentos, así que uno de los dos
    podría ser 10. Ábrelos en pantalla y confírmalo.
