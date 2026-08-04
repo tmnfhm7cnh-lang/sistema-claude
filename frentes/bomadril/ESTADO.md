@@ -1,6 +1,6 @@
 # BOMADRIL, S.L.
 
-**Estado:** 🟡 Documentación recibida y analizada. Desbloqueado; pendiente de preguntar a la gestoría.
+**Estado:** 🟡 Documentación analizada, incluida la escritura. Pendiente de preguntar a la gestoría.
 **Última actualización:** 2026-08-04
 
 ## Qué es
@@ -26,20 +26,38 @@ censal e IAE, domicilio fiscal, cuentas anuales de 2023 a 2025 y el calendario d
 - Cierre de ejercicio el **31/12**. Alta en el censo desde el **30-08-2023**. Régimen general de IVA.
 - **Está al corriente de sus obligaciones tributarias**: certificado positivo.
 
-## 🔴 El hallazgo que hay que resolver
+## Leída la escritura *(2026-08-04)*
 
-La actividad censada **no es la que creíamos**. El modelo 036 de constitución declaró *servicios de
-publicidad y relaciones públicas* (IAE 844/1), pero los certificados de la AEAT emitidos el 03-08-2026
-dicen que la actividad de alta es **IAE 631, intermediarios del comercio**, desde el 02/11/2023.
+Era el único documento sin analizar: 34 páginas escaneadas sin capa de texto, leídas como imagen.
+Detalle completo y con páginas en
+[`privado/hallazgos-escritura-constitucion.md`](privado/hallazgos-escritura-constitucion.md).
 
-Importa porque **ninguno de los dos epígrafes cubre servicios de preparación física**: es justo lo que
-decide si el club se puede facturar por la S.L. o si hay que dar de alta otra actividad.
+### 🟢 El objeto social sí cubre la actividad deportiva
+
+El artículo 2º de los estatutos incluye **CNAE 9319, otras actividades deportivas**. Corrige la
+conclusión anterior: la sociedad puede prestar servicios deportivos por estatutos, sin junta ni
+notario. Lo único que faltaría para facturar al club por la S.L. es un **036 de modificación** añadiendo
+el epígrafe IAE. Sigue en pie la discrepancia censal: el 036 de alta declaró IAE 844/1 y los
+certificados de la AEAT de 03-08-2026 dicen IAE 631, intermediarios del comercio.
+
+### 🟢 El cargo de administrador es retribuido
+
+El artículo 15.5 lo prevé, **en la cuantía que fije la Junta General cada ejercicio**, y compatible con
+un sueldo por trabajo efectivo. Falta saber si esos acuerdos de junta existen, y por qué la sociedad no
+tiene declarada obligación periódica de retenciones.
+
+### 🟡 Falta el papel del traspaso de participaciones
+
+La escritura refleja el reparto original (dos socias fundadoras al 50 %). El reparto actual viene de un
+traspaso posterior a Daniel y a su madre, pero **ni esa escritura ni el libro registro de socios están
+entre los once documentos**. Hay que pedirlos para completar el expediente.
 
 ## Próximo paso
 
-**Mandar a la gestoría las seis preguntas** de
-[`privado/INDICE-documentacion.md`](privado/INDICE-documentacion.md), empezando por la discrepancia de
-epígrafe y por qué epígrafe haría falta para facturar a un club deportivo.
+**Enviar a la gestoría el correo ya redactado** en
+[`privado/preguntas-gestoria-2026-08-04.md`](privado/preguntas-gestoria-2026-08-04.md): dieciocho
+preguntas en cuatro bloques. El bloque 2 —epígrafe IAE e IVA— es el que decide con qué figura se
+contrata con el club.
 
 ## Notas
 

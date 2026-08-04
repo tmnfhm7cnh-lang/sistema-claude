@@ -13,9 +13,15 @@ objetivo propio es más alto — llegar el día 9 con el trabajo hecho de verdad
 
 1. **Formación técnica.** Parte casi de cero en natación artística. Necesita saber lo suficiente para
    diseñar la programación de seco de una temporada completa con criterio.
-2. **Figura contractual.** Decidir si presta el servicio a través de BOMADRIL, S.L. o como autónomo
-   por cuenta propia. Depende de [regularizacion-laboral](../regularizacion-laboral/ESTADO.md), que
-   está bloqueado esperando a la gestoría.
+2. **Figura contractual.** Tres opciones: a través de BOMADRIL, S.L., como autónomo por cuenta propia,
+   o dado de alta por el club como trabajador. **BOMADRIL queda descartado el 2026-08-04** — ver
+   [bomadril](../bomadril/ESTADO.md): estatutariamente se podría, pero no aporta nada y añade riesgo de
+   sociedad interpuesta, operaciones vinculadas, y un margen del que tres cuartas partes son de la socia
+   mayoritaria. Entre las otras dos, la recomendación es **pedir el alta como trabajador** (es la figura que
+   corresponde por la descripción del puesto: horario del club, sus instalaciones, su material, sus
+   atletas) y quedarse en **autónomo** si el club se niega. Pendiente de la respuesta de la gestoría
+   sobre su situación en RETA — ver
+   [regularizacion-laboral](../regularizacion-laboral/ESTADO.md).
 
 ## Ámbito
 

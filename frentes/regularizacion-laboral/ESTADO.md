@@ -37,12 +37,30 @@ Lo que **no** resuelve: nada sobre su situación personal. Entre los once docume
 papel de Seguridad Social ni de RETA**: son todos de la AEAT y de la sociedad. La pregunta original de
 este frente sigue sin respuesta y hay que pedir esos documentos aparte.
 
+## Lo que encaja *(2026-08-04, al leer la escritura de BOMADRIL)*
+
+Con un **25 % del capital** y siendo **administrador único**, la figura esperable es **RETA societario**:
+el control efectivo se presume con participación igual o superior al 25 % ejerciendo funciones de
+dirección y gerencia (art. 305.2.b LGSS). Coherente con lo que hay.
+
+Consecuencia práctica para la decisión del club: **la cuota de autónomo ya la paga**, así que facturar
+como autónomo no añade coste de Seguridad Social. Hay que confirmarlo antes de darlo por hecho.
+
 ## Preguntas abiertas que hay que responder con la documentación en la mano
 
-- ¿Está de alta en RETA como autónomo por cuenta propia, en RETA societario, o en ambos?
-- ¿Quién paga qué cuota y con qué justificación?
+- ¿Está de alta en RETA como societario, además por cuenta propia por su actividad de entrenador, o en
+  ambos? ¿Desde cuándo?
+- ¿Quién paga qué cuota, cómo se contabiliza y qué efecto tiene en su IRPF?
 - ¿Qué modelos de Hacienda le corresponden a él personalmente y con qué periodicidad?
 - ¿Puede facturar como autónomo a un club, o le conviene hacerlo por la S.L.?
+- Si el club le diera de alta unas horas por cuenta ajena, ¿hay problema de compatibilidad con su
+  nómina actual y con el RETA?
+- **Está en pluriactividad** (RETA + Régimen General por la nómina del gimnasio). ¿Le corresponde
+  **devolución de cuotas** por ese doble pago (art. 313 LGSS) de 2023, 2024 o 2025? Puede haber dinero
+  a recuperar y plazo para pedirlo.
+
+Las dieciocho preguntas están redactadas en
+`bomadril/privado/preguntas-gestoria-2026-08-04.md`, bloque 3.
 
 ## Notas
 
