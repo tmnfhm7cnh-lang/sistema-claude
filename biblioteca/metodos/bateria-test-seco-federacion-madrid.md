@@ -4,10 +4,16 @@
 `requisitos-infantil.pdf`, `requisitos-infantil-b.pdf`
 **Extraído:** 2026-08-03
 
-> ⚠️ **Verificar contra el PDF antes de usar con atletas.** El texto se extrajo de los PDFs con un
-> extractor propio (no había herramienta instalada) y **perdió acentos y algunos números que estaban
-> en celdas de tabla**. Donde pone `[?]` es que el número no se extrajo. Los criterios cualitativos
-> son fiables; las cifras marcadas hay que confirmarlas leyendo el PDF original.
+> El texto se extrajo de los PDFs con un extractor propio (no había herramienta instalada) y **perdió
+> acentos y algunos números que estaban en celdas de tabla**. Los criterios cualitativos son fiables.
+>
+> **Cifras confirmadas por Daniel leyendo los PDFs (2026-08-03):** 5 flexiones en alevín 1, 8 burpees con
+> flexión en alevín 2, un palmo = 20 cm. Corroborado además que "8 burpees con flexión de tríceps"
+> aparece en el propio plan del club (`aquamad-1.pdf`).
+>
+> **Quedan tres huecos menores marcados `[?]`**, todos en el nivel Infantil: la flexión de rodilla máxima
+> permitida en las elevaciones colgada, y dos detalles de la prueba de elevación desde tumbada. No
+> bloquean nada; confirmarlos cuando se abra ese PDF.
 
 ## Por qué esto es el centro de todo
 
@@ -28,7 +34,7 @@ analógica.
 | Prueba | Criterio de apto |
 |---|---|
 | **Elevaciones tumbada boca arriba** (tipo hollow/toes-to-bar en suelo) | 12 repeticiones. Brazos pegados al suelo, piernas juntas apretadas, pies en punta toda la serie. Los pies deben tocar **detrás de la cabeza**. Las repeticiones deben llegar con los pies al suelo sin separar las piernas. Se permite que los pies no lleguen al suelo un máximo de **2 veces** |
-| **Plancha + flexiones** | Plancha boca abajo, muñecas debajo de los hombros (o algo más abiertas), codos estirados, cuerpo alineado oreja-tobillo, piernas juntas. Flexión con **codos pegados a las costillas**, y extensión completa. `[?]` repeticiones, máximo **1 repetición incompleta**. Zona lumbar rígida: no debe curvarse más allá de la curvatura fisiológica en ningún momento |
+| **Plancha + flexiones** | Plancha boca abajo, muñecas debajo de los hombros (o algo más abiertas), codos estirados, cuerpo alineado oreja-tobillo, piernas juntas. Flexión con **codos pegados a las costillas**, y extensión completa. **5 flexiones**, máximo **1 repetición incompleta**. Zona lumbar rígida: no debe curvarse más allá de la curvatura fisiológica en ningún momento |
 | **Squat jump** | **10 repeticiones completas**. Rodillas a 90°, muslos paralelos al suelo, rodillas nunca por delante de las puntas de los pies. Salto vertical con extensión completa y despegue total. Altura mínima: **un palmo = 20 cm** (confirmado 2026-08-03). Técnica siempre correcta |
 | **Ariana en suelo** (espagats) | **Femenino:** uno de los espagats plano y el otro a ≤**10 cm** del pubis al suelo. Espagat frontal: ≤**15 cm**. **Masculino:** espagats a ≤**15 cm**; frontal ≤**20 cm**. Rodillas en extensión, ambos pies en punta |
 | **Puente** | Con apoyo en manos y pies, brazos **perpendiculares al suelo** y codos estirados, piernas juntas y rodillas estiradas. Permisividad máxima **15°** en brazos; máximo **10°** en codos y rodillas. Pies juntos |
@@ -37,8 +43,8 @@ analógica.
 
 | Prueba | Criterio de apto |
 |---|---|
-| **Elevaciones de piernas colgada** | Colgada de barra o espaldera: `[?]` (parece 2) elevaciones **por encima de 90°** respecto al tronco, piernas juntas, apretadas, pies en punta. Seguido: **mantener 20 s** la posición de 90°. Se permiten ligeras oscilaciones hacia arriba, nunca a menos. Máximo 2 separaciones incompletas de los pies |
-| **Burpee completo con flexión** | De pie → salto → sentadilla con manos en suelo → pies atrás a plancha alta → **flexión** → pies adelante a sentadilla → salto explosivo con manos por encima de la cabeza. `[?]` repeticiones completas, máximo 1 incompleta. Salto con pies juntos y **más de un palmo (20 cm)**. Lumbar rígida |
+| **Elevaciones de piernas colgada** | Colgada de barra o espaldera: **2 elevaciones** **por encima de 90°** respecto al tronco, piernas juntas, apretadas, pies en punta. Seguido: **mantener 20 s** la posición de 90°. Se permiten ligeras oscilaciones hacia arriba, nunca a menos. Máximo 2 separaciones incompletas de los pies |
+| **Burpee completo con flexión** | De pie → salto → sentadilla con manos en suelo → pies atrás a plancha alta → **flexión** → pies adelante a sentadilla → salto explosivo con manos por encima de la cabeza. **8 repeticiones completas**, máximo 1 incompleta. Salto con pies juntos y **más de un palmo (20 cm)**. Lumbar rígida |
 | **Pino → puente → remontada** | Desde bipedestación, pino con apoyo de manos (**se permite ayuda en el pino**), dejar caer hasta apoyar los pies formando puente, y **remontar sin ayuda** lanzando primero una pierna y luego la otra. La cadera se mantiene arriba al llegar al puente. La remontada es completa hasta la bipedestación |
 | **Dominadas** | Una dominada en **pronación** + mantener la posición de dominada, y una dominada en **supinación** + mantener. Colgado con pies sin apoyo |
 

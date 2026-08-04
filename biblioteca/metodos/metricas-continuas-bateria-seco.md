@@ -58,8 +58,8 @@ llevar los pies atrás) o por control (se separan las piernas). Son tres entrena
 ### 2. Plancha y flexiones
 
 **Criterio oficial:** plancha con alineación oreja–tobillo, muñecas bajo hombros, codos estirados,
-piernas juntas. Flexión con codos pegados a las costillas y extensión completa. `[nº de flexiones sin
-confirmar]`, máximo 1 incompleta. Lumbar sin curvarse más allá de la fisiológica.
+piernas juntas. **5 flexiones** con codos pegados a las costillas y extensión completa, máximo 1
+incompleta. Lumbar sin curvarse más allá de la fisiológica.
 
 | Métrica continua | Unidad | Cómo se mide |
 |---|---|---|
@@ -187,8 +187,8 @@ dos cosas o entrenarás lo que no falla.
 ### 7. Burpee completo con flexión
 
 **Criterio oficial:** secuencia completa (salto → sentadilla → plancha → flexión → sentadilla → salto con
-manos arriba), `[nº sin confirmar, posiblemente 12]` repeticiones completas, máximo 1 incompleta, salto de
-más de un palmo (20 cm), lumbar rígida.
+manos arriba), **8 repeticiones completas**, máximo 1 incompleta, salto de más de un palmo (20 cm),
+lumbar rígida.
 
 | Métrica continua | Unidad |
 |---|---|
@@ -342,7 +342,7 @@ seco con rendimiento en agua, se hace entonces.
 | # | Punto | Estado |
 |---|---|---|
 | 1 | Un palmo = 20 cm | ✅ Confirmado por Daniel (2026-08-03) y aplicado |
-| 2 | Nº de flexiones (alevín 1) y de burpees (alevín 2) | ⏳ **Pendiente: hay que abrir los PDFs.** No es recuperable de la extracción |
+| 2 | Nº de flexiones (alevín 1) y de burpees (alevín 2) | ✅ **5 flexiones y 8 burpees**, confirmado por Daniel en los PDFs (2026-08-03) |
 | 3 | ¿Infantil B igual que Infantil en seco? | ✅ **Sí, el bloque de seco es idéntico.** Verificado comparando los dos textos: lo que cambia son las pruebas de agua (Infantil B añade 200 m estilos y 100 m kick) y los años de nacimiento |
 | 4 | Rúbricas de 6 niveles (pruebas 8 y 11) | ✅ Aprobadas por Daniel (2026-08-03) |
 | 5 | Método de altura de salto | ✅ **My Jump Lab**, con el protocolo de arriba |
