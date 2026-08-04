@@ -22,9 +22,20 @@ Bloquea dos cosas:
 
 ## Próximo paso
 
-Reclamar a la gestoría (**ADA SEQUOR, S.L.**) la documentación de BOMADRIL. Sin eso, este frente no
-avanza. Cuando llegue: analizarla, listar obligaciones recurrentes con sus plazos, y solo entonces
-decidir la figura contractual.
+**Preguntar a la gestoría por su situación personal de autónomo**, junto con las preguntas de BOMADRIL:
+si está de alta en RETA por cuenta propia, en RETA societario o en ambos; quién paga qué cuota y con qué
+justificación; y qué modelos le corresponden a él personalmente.
+
+## Desbloqueado *(2026-08-04)*
+
+**La documentación de BOMADRIL ya llegó y está analizada** — ver
+[bomadril](../bomadril/ESTADO.md) y `bomadril/privado/INDICE-documentacion.md`.
+
+Lo que resuelve: las obligaciones **de la sociedad** (IS anual, IVA trimestral, al corriente de pago).
+
+Lo que **no** resuelve: nada sobre su situación personal. Entre los once documentos **no hay ni un solo
+papel de Seguridad Social ni de RETA**: son todos de la AEAT y de la sociedad. La pregunta original de
+este frente sigue sin respuesta y hay que pedir esos documentos aparte.
 
 ## Preguntas abiertas que hay que responder con la documentación en la mano
 

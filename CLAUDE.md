@@ -14,8 +14,7 @@ de una S.L. Sus deportes son **calistenia y capoeira**; gimnasia, atletismo, hal
 thai son medios de entrenamiento, no fines.
 
 Ingresos reales hoy: nómina como instructor de calistenia en un gimnasio, retribución como
-administrador de BOMADRIL, S.L. (IAE 844.1, publicidad y RRPP) y un cliente de entrenamiento
-personal. Todo lo demás está en desarrollo y **no genera ingresos todavía**.
+administrador de BOMADRIL, S.L. y un cliente de entrenamiento personal. Todo lo demás está en desarrollo y **no genera ingresos todavía**.
 
 Trabaja **solo**: sin equipo, sin empleados, sin nadie que toque su código. Alrededor tiene alumnos
 y clientes, el gimnasio como empleador, una gestoría externa (ADA SEQUOR, S.L.) para lo fiscal de la
