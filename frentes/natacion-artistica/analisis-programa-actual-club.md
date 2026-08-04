@@ -39,38 +39,54 @@ Lo que está bien hecho y **no hay que tocar**:
   (hombro por sculling repetido). Está bien orientado.
 - **El core tiene volumen y variedad de orientaciones**, no solo flexión.
 
-Lo que veo como carencias, cruzando lo que hacen con las demandas del deporte descritas en
-[`23-investigacion-de-claude.md`](../../biblioteca/fuentes/natacion-artistica/):
+## ⚠️ Corrección importante (2026-08-03, tras leer los planes completos en Word)
 
-1. **No hay trabajo de tolerancia a la apnea programado en seco.** Es el rasgo fisiológico distintivo
-   del deporte (apnea dinámica intermitente de alta intensidad) y el sistema de puntuación vigente
-   premia estructuralmente apneas más largas (elementos TU3 ≥16 s). En el seco no aparece nada que
-   prepare específicamente esa tolerancia. **Advertencia obligatoria:** cualquier trabajo de apnea tiene
-   riesgo de síncope hipóxico, hay casos documentados en esta disciplina, y European Aquatics limitó la
-   apnea a 25 s en categoría Junior desde 2025. Esto se diseña con protocolo de seguridad escrito o no
-   se diseña.
-2. **No hay progresión de fuerza, hay acondicionamiento.** Todo es circuito de alta repetición con
-   cargas de 2–5 kg. Con ese material **no se puede** desarrollar fuerza máxima ni potencia por carga
-   externa. La salida no es comprar material: es **progresión por dificultad de ejercicio corporal**
-   (calistenia), que es exactamente tu especialidad. El eggbeater exige potencia de tren inferior con
-   rotación externa y abducción de cadera; eso se puede progresar sin hierro.
-3. **El cardio es de carrera, y el deporte es acuático y de apnea.** Correr construye base general, pero
-   la transferencia al patrón real es baja y suma impacto en atletas jóvenes que ya acumulan volumen en
-   agua. No lo eliminaría, pero cuestionaría el porcentaje que ocupa.
-4. **No se ve periodización.** Las sesiones parecen encadenarse por semanas sin fases con objetivos
-   distintos ni progresión de carga declarada, y las pruebas de nivel aparecen como eventos, no como
-   hitos que ordenan el ciclo. Aquí es donde más valor puedes aportar tú desde el día uno.
-5. **No hay registro de resultados individual.** Sin datos por atleta no se puede demostrar mejora ni
-   individualizar. Es lo primero que montaría, y es barato: una tabla `.csv` por atleta codificada.
-6. **Nada específico por rol.** En equipo, las atletas que hacen de base en elevaciones acumulan mucha
-   más apnea y mucha más carga de fuerza que las que van arriba. Está documentado y casi nunca se
-   diferencia en la programación.
+**El análisis inicial de este documento se hizo con material parcial** (`aquamad-1/2/4/5`, extraídos de
+PDF) y **tres de sus conclusiones eran falsas.** Al leer `P.F ALEVÍN.docx` y `P.F INFANTIL.docx`, que son
+la planificación anual completa, resulta que:
+
+| Lo que dije | La realidad |
+|---|---|
+| "No se ve periodización" | **Falso.** Hay un modelo anual explícito: de septiembre a diciembre, acondicionamiento y preparación de las pruebas de nivel; **desde enero, rotación semanal declarada de Resistencia / Fuerza / Explosividad**, con las sesiones etiquetadas una por una |
+| "No hay trabajo de apnea" | **Falso.** Aparece integrado: *"los últimos 10” de comba son rodillas arriba sin respirar"*, repetido en varias sesiones. No es un protocolo, pero existe y es deliberado |
+| "No hay progresión de fuerza, solo acondicionamiento" | **Parcialmente falso.** Usan dominadas asistidas, **negativas**, trabajo escapular con pausa y bajada retenida, y progresiones en espaldera. Es más fino de lo que deduje |
+| "El cardio es de carrera" | **Incompleto.** También usan **comba**, que es más específica y de menor impacto que correr |
+| "Acceso puntual a espalderas" | **Matizable.** El plan incluye trabajo de espaldera de forma habitual, no excepcional. Hay que preguntar cuánta disponibilidad real tienen |
+
+**Lección para mí:** no emitir un juicio sobre el trabajo de otro profesional a partir de documentos
+fragmentarios y mal extraídos. Y para Daniel: **no lleves a la reunión ninguna de esas cuatro
+afirmaciones.** Habrías quedado como alguien que no ha leído lo que le mandaron.
+
+## Carencias reales, revisadas
+
+Con los planes completos delante, lo que de verdad falta es más fino y más difícil de ver:
+
+1. **No hay criterio de progresión declarado dentro de cada bloque.** Se repiten sesiones enteras
+   idénticas ("Repetir jueves pasado", noviembre repite octubre literalmente) sin que cambie el número de
+   repeticiones, la dificultad del ejercicio o el nivel de asistencia. Se rota la cualidad, pero no se
+   sobrecarga progresivamente. **Ahí está tu aportación principal.**
+2. **No hay registro de resultados individual.** Sin datos por nadadora no se puede demostrar mejora ni
+   individualizar. Es barato de montar y no lo tienen: una tabla `.csv` codificada.
+3. **La dosis está fijada para el grupo, no para la persona.** Todo es "todas a la vez" y "las demás
+   hacen X mientras". Con 12 nadadoras de niveles distintos, quien ya pasa la prueba sigue haciendo lo
+   mismo que quien está lejos.
+4. **El trabajo de apnea no tiene protocolo de seguridad.** Existe, pero como detalle dentro de un
+   circuito. Con menores y con casos documentados de síncope hipóxico en esta disciplina —European
+   Aquatics limitó la apnea a 25 s en Junior desde 2025— eso merece reglas escritas: qué se permite, qué
+   no, y supervisión. **Es la aportación más valiosa y más delicada que puedes hacer**, y hay que
+   plantearla como refuerzo de seguridad, no como corrección.
+5. **Nada específico por rol** (base vs. arriba en elevaciones). Documentado en la literatura, ausente
+   aquí y en casi todos los clubes.
+6. **El volumen de carrera sigue siendo cuestionable** con 90 minutos semanales de seco y 9–12 horas de
+   agua, pero es una discusión de prioridades, no un error.
 
 ## Lo que esto significa para tu propuesta
 
-Tienes una ventaja concreta: **no llegas a reinventar el seco, llegas a ordenarlo**. La técnica y
-flexibilidad ya funcionan; lo que falta es estructura de fuerza progresiva, periodización con las
-pruebas de nivel como hitos, medición individual, y el trabajo de apnea que hoy no existe.
+Tienes una ventaja concreta: **no llegas a reinventar el seco ni a corregirlo, llegas a afinarlo**. Hay un
+plan anual, hay rotación de cualidades, hay trabajo específico bueno y hay preparación de las pruebas. Lo
+que falta es más sutil: **progresión declarada dentro de cada bloque, medición individual, dosis
+diferenciada y seguridad escrita en el trabajo de apnea**.
 
-Eso es un discurso defendible ante el club en una reunión de diez minutos, y encaja con el material y
-los días que ya tienen. No exige comprar nada.
+Ese es el discurso, y es mucho mejor que el anterior: reconoces lo que está bien hecho —que es mucho— y
+aportas exactamente en las cuatro grietas. Encaja con su material, sus días y su modelo. No exige comprar
+nada ni desmontar nada.

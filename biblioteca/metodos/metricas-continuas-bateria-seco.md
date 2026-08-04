@@ -74,8 +74,13 @@ incompleta. Lumbar sin curvarse más allá de la fisiológica.
 
 ### 3. Squat jump
 
-**Criterio oficial:** 10 repeticiones completas, 90° de rodilla, rodillas no pasan las puntas de los
-pies, extensión completa y despegue. Altura mínima: **un palmo**.
+**Criterio oficial:** 10 repeticiones completas **en un máximo de 20 segundos**, 90° de rodilla, rodillas
+no pasan las puntas de los pies, extensión completa y despegue. Altura mínima: **un palmo = 20 cm**.
+
+> ⚠️ **Corregido el 2026-08-03 con el documento oficial en Word:** hay un **límite de tiempo de 20
+> segundos** para las 10 repeticiones que la extracción del PDF había cortado. Eso cambia la naturaleza de
+> la prueba: no es solo altura, es **altura sostenida a una cadencia de 2 segundos por salto**. Es una
+> prueba de potencia repetida, no de salto máximo, y hay que entrenarla como tal.
 
 > ✅ **Un palmo = 20 cm.** Confirmado por Daniel el 2026-08-03. Es el umbral operativo en todas las
 > pruebas donde el criterio oficial dice "un palmo": squat jump, burpee y apertura del espagat por
@@ -169,8 +174,13 @@ comparables entre mediciones. Esto es la fuente de error más común y la más f
 
 ### 6. Elevaciones de piernas colgada + mantenimiento
 
-**Criterio oficial:** 2 elevaciones por encima de 90° respecto al tronco, y después mantener 20 s a 90°.
-Máximo 2 separaciones incompletas de pies.
+**Criterio oficial (corregido el 2026-08-03):** **12 elevaciones** de piernas por encima de 90° respecto al
+tronco, y después **mantener 5"** la posición de carpa. Se permiten pequeñas oscilaciones hacia arriba,
+nunca por debajo de 90°.
+
+> ⚠️ La versión anterior de este documento decía "2 elevaciones y 20 s de mantenimiento". **Era un error de
+> extracción del PDF.** Son 12 elevaciones y 5 segundos: mucho más exigente en volumen y mucho menos en
+> isometría. Cambia por completo cómo se entrena — es resistencia de compresión, no un isométrico largo.
 
 | Métrica continua | Unidad |
 |---|---|
@@ -330,6 +340,83 @@ Esto conviene que se lo digas al club **antes** de que alguien te lo pida. Te po
 
 ---
 
+---
+
+## Las cinco pruebas que faltaban
+
+Aparecieron al leer los documentos oficiales en Word el 2026-08-03. La versión anterior de este documento
+las ignoraba porque la extracción del PDF no las recuperó.
+
+### 13. Pierna a 90° en tres direcciones *(Alevín 2: 8" · Infantil: 12")*
+
+Mantener la pierna a 90° o más y llevarla delante, al lado y atrás, aguantando en cada posición, con cada
+pierna. Se permite apoyar una mano en barra o espaldera. **Es flexibilidad activa pura**, y es la prueba
+que mejor conecta con lo que el club ya hace (sus tablas de lanzamientos y aguantes con tobilleras).
+
+| Métrica continua | Unidad |
+|---|---|
+| Segundos mantenidos en cada dirección (delante, lado, atrás) y con cada pierna — **6 valores** | s |
+| Ángulo real de la pierna en el momento de mayor caída, por dirección | º |
+| Asimetría entre piernas, por dirección | s y º |
+| Nivel de apoyo: sin mano, mano apoyada, mano agarrada | 3 niveles |
+| Caída de altura entre el segundo 1 y el último | º |
+
+**La dirección "atrás" es siempre la peor** y la que más informa: exige extensión de cadera con control
+del tronco. Registra las tres por separado o perderás el dato útil.
+
+### 14. Vertical 3 apoyos con transición a grúa *(Alevín 2)*
+
+Subir a la vertical de 3 apoyos, bajar **una** pierna a grúa en mínimo 10" y volver a subir en mínimo 10",
+con la pierna vertical inmóvil.
+
+Rúbrica de niveles, más los tiempos reales de cada transición en segundos, más un recuento de las veces que
+la pierna vertical se mueve (que es el criterio que se falla sin darse cuenta):
+
+| Nivel | Descripción |
+|---|---|
+| 0 | No sostiene la vertical de 3 apoyos |
+| 1 | La sostiene menos de 5" |
+| 2 | La sostiene alineada con piernas juntas y estiradas |
+| 3 | Baja a grúa con control, en menos de 10" |
+| 4 | Baja a grúa en 10" o más, con la pierna vertical inmóvil |
+| 5 | Baja **y sube** en 10" o más cada fase = criterio oficial |
+
+### 15. Puente + subida de pierna estirada *(Infantil)*
+
+| Métrica continua | Unidad |
+|---|---|
+| Grados de desviación del brazo respecto a la vertical (mismo protocolo del puente) | º |
+| Altura del pie de la pierna elevada | cm desde el suelo |
+| Grados de flexión de la rodilla de la pierna elevada | º |
+| Segundos de mantenimiento con criterio válido | s |
+| Asimetría entre piernas | cm |
+
+### 16. Veinte Vs + 10" en posición de V *(Infantil)*
+
+| Métrica continua | Unidad |
+|---|---|
+| Repeticiones válidas con piernas y brazos totalmente estirados | reps de 20 |
+| Segundos de mantenimiento en la V | s |
+| Ángulo de la V en el mantenimiento (se abre con la fatiga) | º |
+| Repeticiones en las que los pies tocan el suelo *(no permitido)* | reps |
+
+### 17. Un minuto de comba *(Infantil)*
+
+Es la prueba que explica por qué el club usa tanto la comba: **es un criterio oficial**, no un relleno de
+acondicionamiento.
+
+| Métrica continua | Unidad |
+|---|---|
+| Saltos completos en 60 s | saltos |
+| Número de fallos (tropiezos con la cuerda) | recuento |
+| Saltos consecutivos sin fallo, máximo | saltos |
+| Ritmo en la primera y en la última fracción de 15 s | saltos/15 s (mide la caída) |
+
+**El dato que decide el apto no es el total, son los fallos.** Alguien con 120 saltos y 6 tropiezos está
+peor que alguien con 90 seguidos. Registra las dos cosas.
+
+---
+
 ## Ámbito de este documento
 
 **Solo seco.** Daniel no lleva nada de agua: los criterios en agua (apneas, eggbeater con brazos arriba,
@@ -342,7 +429,8 @@ seco con rendimiento en agua, se hace entonces.
 | # | Punto | Estado |
 |---|---|---|
 | 1 | Un palmo = 20 cm | ✅ Confirmado por Daniel (2026-08-03) y aplicado |
-| 2 | Nº de flexiones (alevín 1) y de burpees (alevín 2) | ✅ **5 flexiones y 8 burpees**, confirmado por Daniel en los PDFs (2026-08-03) |
+| 2 | Nº de flexiones (alevín 1) y de burpees (alevín 2) | ✅ **20" de plancha + 5 flexiones de tríceps** y **8 burpees**, confirmado con los documentos oficiales en Word |
+| 7 | **Batería incompleta y con dos criterios erróneos** | ✅ Corregido el 2026-08-03 al llegar los originales en Word: añadidas 5 pruebas que faltaban, corregidos el squat jump (límite de 20 s) y las elevaciones colgada (12 reps + 5", no 2 + 20"). **Revisa las métricas de las pruebas 13 a 17, que son nuevas y no las has validado todavía** |
 | 3 | ¿Infantil B igual que Infantil en seco? | ✅ **Sí, el bloque de seco es idéntico.** Verificado comparando los dos textos: lo que cambia son las pruebas de agua (Infantil B añade 200 m estilos y 100 m kick) y los años de nacimiento |
 | 4 | Rúbricas de 6 niveles (pruebas 8 y 11) | ✅ Aprobadas por Daniel (2026-08-03) |
 | 5 | Método de altura de salto | ✅ **My Jump Lab**, con el protocolo de arriba |
