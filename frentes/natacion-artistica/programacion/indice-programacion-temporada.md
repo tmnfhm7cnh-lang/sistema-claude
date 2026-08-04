@@ -42,7 +42,7 @@ cerrar, o si depende de un dato que solo tiene el club.
 | # | Apartado | Estado | Cubierto por |
 |---|---|---|---|
 | 2.1 | Criterios de apto/no apto en seco por nivel | ✅ | [`bateria-test-seco-federacion-madrid.md`](../../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md) |
-| 2.2 | Criterios en agua (apneas, eggbeater con brazos arriba, boost, figuras) | ✅ | `requisitos-*.pdf` |
+| 2.2 | Criterios en agua (apneas, eggbeater con brazos arriba, boost, figuras) | ✅ | `requisitos-*.pdf`. **Fuera de ámbito** (2026-08-03): Daniel no lleva agua. Se conocen como contexto — son la razón de ser del seco — pero no se miden ni se programan |
 | 2.3 | **Convertir cada criterio binario en una métrica continua** (cm al suelo, grados, segundos, repeticiones) para poder medir progreso antes del apto | 🔴 | Trabajo propio pendiente |
 | 2.4 | Test de entrada: qué se pasa en la primera semana y cómo se registra | 🔴 | Trabajo propio pendiente |
 

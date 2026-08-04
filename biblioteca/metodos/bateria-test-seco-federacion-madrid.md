@@ -44,8 +44,9 @@ analógica.
 
 ## Niveles Infantil e Infantil B
 
-Los dos documentos comparten el mismo bloque en seco (revisar el PDF por si hay diferencias en las
-pruebas de agua):
+**Verificado el 2026-08-03 comparando los dos documentos: el bloque de seco es idéntico.** Lo que cambia
+entre ellos son las pruebas de agua (Infantil B añade 200 m estilos y 100 m kick) y los años de
+nacimiento de la categoría.
 
 | Prueba | Criterio de apto |
 |---|---|

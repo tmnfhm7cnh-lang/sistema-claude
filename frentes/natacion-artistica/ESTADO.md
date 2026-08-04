@@ -17,6 +17,12 @@ objetivo propio es más alto — llegar el día 9 con el trabajo hecho de verdad
    por cuenta propia. Depende de [regularizacion-laboral](../regularizacion-laboral/ESTADO.md), que
    está bloqueado esperando a la gestoría.
 
+## Ámbito
+
+**Solo entrenamiento en seco.** Confirmado por él el 2026-08-03: no lleva nada de agua. Los criterios y
+demandas en agua se conocen como contexto (justifican todo el trabajo en seco), pero no se miden ni se
+programan desde aquí.
+
 ## Qué quiere tener listo
 
 - Programación de la temporada de entrenamiento en seco.

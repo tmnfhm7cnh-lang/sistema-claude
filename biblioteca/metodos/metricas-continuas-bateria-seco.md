@@ -83,7 +83,7 @@ pies, extensión completa y despegue. Altura mínima: **un palmo**.
 
 | Métrica continua | Unidad | Cómo se mide |
 |---|---|---|
-| Altura de salto media de las 10 | cm | Lo más fiable sin plataforma: **jump-and-reach** — marca de alcance de pie contra la pared, menos marca alcanzada en el salto. También sirve una app de vuelo por vídeo a 240 fps |
+| Altura de salto media de las 10 | cm | **My Jump Lab** (app de Carlos Balsalobre) en el iPhone — ver protocolo abajo |
 | Altura de la mejor repetición | cm | Ídem |
 | Índice de fatiga: caída de altura entre las reps 1-3 y las 8-10 | % | `(media 1-3 − media 8-10) / media 1-3 × 100` |
 | Repeticiones que superan los 20 cm | reps de 10 | Umbral oficial (un palmo = 20 cm) |
@@ -92,6 +92,35 @@ pies, extensión completa y despegue. Altura mínima: **un palmo**.
 **Qué te dice:** el índice de fatiga separa **potencia** de **resistencia a la potencia**. Una atleta
 puede tener buen salto y perder el 30 % en 10 reps: eso es un problema distinto de tener poco salto. Y
 en un deporte de esfuerzos repetidos con apnea, la segunda cualidad importa mucho.
+
+#### Protocolo con My Jump Lab
+
+Método elegido el 2026-08-03. Mide **altura de vuelo**, no alcance, así que no penaliza a quien tiene
+poca movilidad de hombro y es directamente comparable entre atletas.
+
+Respaldo: validada contra plataforma de fuerza con asociación alta (r > 0,91) y buena fiabilidad
+(α > 0,93; coeficiente de variación < 6 %), con seguimiento por IA sin marcadores a 60 Hz. **Matiz
+honesto:** el estudio de validación de *My Jump Lab* tiene una muestra pequeña (12 participantes
+físicamente activos, saltos con carga del 0 al 70 % del peso corporal); la versión anterior de la app
+(*My Jump 2*) cuenta con un metaanálisis. Para uso de campo es más que suficiente; no lo presentes como
+si fuera una plataforma de fuerza.
+
+Reglas para que los números sean comparables entre mediciones:
+
+1. **Mismo teléfono y misma configuración de vídeo** siempre. Si cambias de móvil, se anota y se asume
+   que la serie histórica tiene un salto.
+2. **Cámara fija**: móvil apoyado o en trípode, a la misma distancia y altura, con el punto marcado en el
+   suelo con cinta. La atleta encuadrada de cuerpo entero.
+3. **Luz suficiente y fondo despejado**: la detección por IA falla con poca luz o con gente pasando por
+   detrás.
+4. **Descalzas o siempre con el mismo calzado.**
+5. **Registrar en el `.csv` el método usado** (`myjumplab`) en la columna de observaciones. El día que
+   cambies de método, los datos anteriores no se comparan con los nuevos.
+6. Para el índice de fatiga hacen falta las **10 repeticiones grabadas en una sola toma**: comprueba antes
+   que la app te da rep a rep y no solo la mejor.
+
+*Alternativa sin app, si algún día no la tienes a mano:* jump-and-reach (alcance de pie contra la pared
+menos alcance en el salto). **No mezcles los dos métodos en la misma serie de datos.**
 
 ### 4. Ariana en suelo (espagats)
 
@@ -301,20 +330,20 @@ Esto conviene que se lo digas al club **antes** de que alguien te lo pida. Te po
 
 ---
 
-## Lo que necesito que revises
+## Ámbito de este documento
 
-1. ✅ **Resuelto (2026-08-03): un palmo = 20 cm.** Aplicado en todo el documento.
-2. **Número de flexiones en la prueba de alevín 1** y **número de burpees en alevín 2**: no se
-   extrajeron del PDF. En el texto solo aparecen "12" y "10" como recuentos, así que uno de los dos
-   podría ser 10. Ábrelos en pantalla y confírmalo.
-3. **¿El bloque de seco de Infantil B es idéntico al de Infantil?** Eso es lo que aparece en la
-   extracción. Si difiere en algo, la tabla del nivel Infantil hay que desdoblarla.
-4. **Las rúbricas de 6 niveles (pruebas 8 y 11) son mías**, no oficiales. Son mi propuesta de cómo
-   descomponer la habilidad en fases observables. Revísalas con tu criterio de entrenador: eres tú quien
-   ha visto a alguien aprender un pino-puente, no yo.
-5. **Jump-and-reach como método de altura de salto**: es lo más fiable sin plataforma de fuerza, pero
-   mide alcance, no vuelo, y penaliza a quien tiene poca movilidad de hombro. Si prefieres otro método,
-   dilo y lo cambio — lo importante es no mezclar métodos entre mediciones.
-6. **¿Añadimos algo de agua?** Los criterios en agua (25 m en apnea, eggbeater con brazos arriba, boost)
-   también son continuos y medibles, pero requieren estar en la piscina y coordinarte con la
-   entrenadora. Dime si quieres que lo desarrolle o si tu ámbito es solo el seco.
+**Solo seco.** Daniel no lleva nada de agua: los criterios en agua (apneas, eggbeater con brazos arriba,
+boost, figuras) quedan como **contexto** — son la razón de ser del trabajo en seco y hay que conocerlos,
+pero no se miden ni se programan desde aquí. Si en algún momento la entrenadora quiere cruzar datos de
+seco con rendimiento en agua, se hace entonces.
+
+## Estado de la revisión
+
+| # | Punto | Estado |
+|---|---|---|
+| 1 | Un palmo = 20 cm | ✅ Confirmado por Daniel (2026-08-03) y aplicado |
+| 2 | Nº de flexiones (alevín 1) y de burpees (alevín 2) | ⏳ **Pendiente: hay que abrir los PDFs.** No es recuperable de la extracción |
+| 3 | ¿Infantil B igual que Infantil en seco? | ✅ **Sí, el bloque de seco es idéntico.** Verificado comparando los dos textos: lo que cambia son las pruebas de agua (Infantil B añade 200 m estilos y 100 m kick) y los años de nacimiento |
+| 4 | Rúbricas de 6 niveles (pruebas 8 y 11) | ✅ Aprobadas por Daniel (2026-08-03) |
+| 5 | Método de altura de salto | ✅ **My Jump Lab**, con el protocolo de arriba |
+| 6 | Métricas de agua | ✅ Fuera de ámbito: solo seco |
