@@ -7,7 +7,7 @@ journal, no aquí. El detalle real de cada frente vive en su `ESTADO.md`.
 
 | Frente | Estado | Próximo paso | Último toque | Detalle |
 |---|---|---|---|---|
-| Natación artística | 🔴 Urgente — plazo 2026-09-09 | Pedir al club los documentos de pruebas de nivel **en vigor** y aceptar la llamada con la propuesta ya hecha | 2026-08-03 | [ESTADO](frentes/natacion-artistica/ESTADO.md) |
+| Natación artística | 🔴 Urgente — plazo 2026-09-09 | Proyecto **Programación AQUAMAD 26-27** en marcha: escribir las progresiones de P1–P6. Y pedir al club la **fecha exacta de la prueba de Infantil** | 2026-08-05 | [ESTADO](frentes/natacion-artistica/ESTADO.md) · [PROYECTO](frentes/natacion-artistica/programacion/INDICE.md) |
 | Regularización laboral | 🟡 Parcialmente desbloqueado | Pedir a la gestoría los documentos de Seguridad Social y RETA: entre los once recibidos no hay ninguno | 2026-08-04 | [ESTADO](frentes/regularizacion-laboral/ESTADO.md) |
 | BOMADRIL, S.L. | 🟡 Documentación analizada, escritura incluida | Enviar a la gestoría el correo ya redactado (18 preguntas); el bloque 2 decide la figura contractual con el club | 2026-08-04 | [ESTADO](frentes/bomadril/ESTADO.md) |
 | Entrenador personal | 🟢 Activo, sin cambios | Definir cómo registrar el seguimiento del cliente | 2026-08-03 | [ESTADO](frentes/entrenador-personal/ESTADO.md) |

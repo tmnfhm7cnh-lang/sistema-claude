@@ -1,7 +1,14 @@
 # Natación artística — AQUAMADSINCRO
 
 **Estado:** 🔴 Urgente. Plazo real: **9 de septiembre de 2026** (primer día de trabajo).
-**Última actualización:** 2026-08-03
+**Última actualización:** 2026-08-05
+
+## 👉 El proyecto vive en [`programacion/INDICE.md`](programacion/INDICE.md)
+
+*(2026-08-05)* Todo el trabajo se organiza como un proyecto con nombre —**Programación AQUAMAD
+26-27**— en carpetas dentro de `programacion/`, con tres patas: programación por grupos, test y
+monitoreo, y **manual de didáctica**. Ese índice dice qué pieza existe, en qué estado está y en qué
+orden se escribe. Este `ESTADO.md` solo guarda el contexto que no cambia.
 
 ## Qué es
 
@@ -38,13 +45,21 @@ programan desde aquí.
 
 ## Próximo paso
 
-**Diseñar la macroestructura del primer bloque** (9 de septiembre → pruebas de nivel), con las dos anclas
-reales: pruebas de Infantil a finales de octubre y de Alevín a principios de diciembre.
+**Escribir `02-programacion/progresiones-por-patron.md`** — la pieza 2 del orden del
+[índice del proyecto](programacion/INDICE.md). Es la especialidad de Daniel y la carencia declarada
+del club: máximo valor por hora invertida.
 
-Antes o en paralelo: **subir los adjuntos que mandó el club** (planificaciones anteriores, calendario de
-la temporada pasada, tablas de flexibilidad, y el documento con las nadadoras que se examinan) y **aceptar
-la llamada** que propone la entrenadora, con las preguntas abiertas de
-[`contexto-club.md`](contexto-club.md) delante.
+En paralelo, y sin depender de nadie: **subir los adjuntos que mandó el club** (planificaciones
+anteriores, calendario de la temporada pasada, tablas de flexibilidad, y el documento con las
+nadadoras que se examinan) y **aceptar la llamada** que propone la entrenadora, con las preguntas
+abiertas de [`contexto-club.md`](contexto-club.md) y las siete de
+[`calendario-temporada.md`](programacion/01-marco/calendario-temporada.md) delante.
+
+### 🔴 La pregunta más urgente para el club
+
+**La fecha exacta de la prueba de nivel de Infantil.** El club dijo "mediados o finales de octubre".
+Entre el 15 y el 29 de octubre se van **cuatro de las once sesiones** disponibles: un 27 % del
+bloque. Es el dato que más mueve el diseño de toda la temporada.
 
 ## El club ya respondió *(2026-08-03)*
 
