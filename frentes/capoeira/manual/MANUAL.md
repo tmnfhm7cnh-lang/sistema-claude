@@ -1,7 +1,7 @@
 # Manual Maestro de preparación en capoeira — v2.0
 
-**Atleta:** Samurai · Corda Cinza *(división de competición pendiente de confirmar, ver
-[reglamento](fuentes/reglamento-europeu-muzenza-2026.md))*.
+**Atleta:** Samurai · Corda Cinza → división **Alunos Adulto – Iniciantes** («Crua até Amarela»),
+confirmado el 2026-08-05.
 **Hito que ordena el trabajo:** 19.º Campeonato Europeu Aberto de Capoeira, Albufeira, 14–17 de
 octubre de 2026. Alunos Adulto – Iniciantes.
 **Última actualización:** 2026-08-05 · **Cambios:** [`CHANGELOG.md`](CHANGELOG.md)
@@ -79,9 +79,8 @@ Capítulos 3 y 5 en versión mínima documentada hasta noviembre de 2026.
 
 ## Deuda abierta
 
-- `[PENDIENTE-VERIFICAR]` **División de competición**: la corda Cinza no aparece en la tabla de
-  adultos del reglamento resumido. Confirmar con el mestre.
-- `[PENDIENTE-VERIFICAR]` Reglamento **completo** en PDF: solo se tiene el resumido de la web.
+- `[PENDIENTE-VERIFICAR]` Reglamento **completo** en PDF: solo se tiene el resumido de la web. Lo que
+  más falta de él: cómo puntúa numéricamente cada árbitro y si los cuatro pilares pesan igual.
 - `[PENDIENTE-VERIFICAR]` Cinética de resíntesis de PCr y de aclaramiento de H⁺: sin fuente primaria
   citada.
 - `[PENDIENTE-VERIFICAR]` Rangos de duración de esfuerzo con efecto demostrado de beta-alanina y

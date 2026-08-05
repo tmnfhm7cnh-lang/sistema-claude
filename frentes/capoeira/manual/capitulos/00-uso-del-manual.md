@@ -37,8 +37,8 @@ decisión, y tiene coste.
 | `[C]` | Hipótesis o razonamiento generado aquí. Requiere los tres campos del §3. |
 | `[PENDIENTE-VERIFICAR]` | Se cree cierto, no se ha podido respaldar. Es deuda, y se paga. |
 
-`[Obs]` es una incorporación al esquema original *(propuesta 2026-08-05, pendiente de validación)*.
-Razón: la literatura de capoeira **competitiva** es prácticamente inexistente, así que `[B]` nunca
+`[Obs]` es una incorporación al esquema original *(adoptada el 2026-08-05, por delegación explícita de
+Samurai)*. Razón: la literatura de capoeira **competitiva** es prácticamente inexistente, así que `[B]` nunca
 va a llenarse solo. La única forma de tener datos de la disciplina, de la división y del reglamento
 que te afectan es **producirlos**: análisis sistemático de vídeo y registro de tus propias sesiones.
 Con `n` pequeño y sesgo declarado, pero de tu contexto real — que es más de lo que ofrece cualquier

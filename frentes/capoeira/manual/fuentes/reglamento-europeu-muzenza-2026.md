@@ -31,11 +31,10 @@ de aquí es transcripción de esa página; lo que no aparezca en ella no está e
 mestres. **Master** 40–46 / 47–53 · **Sénior** 54–61 / 62+. **Absoluto:** top-3 de las categorías
 adultas, masculino y femenino por separado.
 
-> ⚠️ **`[PENDIENTE-VERIFICAR]` — la corda Cinza no aparece en esta tabla.** El resumen sitúa
-> Iniciantes en "Crua até Amarela" y no menciona Cinza en ninguna división de adultos. Puede ser que
-> el resumen omita cordas intermedias, o que Cinza no pertenezca a esta escala. **Hay que
-> confirmar con el mestre en qué división se inscribe.** No es un detalle: la división determina el
-> nivel de los rivales y, con ello, todo el capítulo 1.
+> ✅ **Resuelto el 2026-08-05.** La corda **Cinza va entre Crua y Amarela** en el orden de graduación
+> de Muzenza, así que queda dentro de «Corda Crua até Amarela»: la división es **Alunos Adulto –
+> Iniciantes**. El resumen publicado omite las cordas intermedias, no las excluye. Fuente: Samurai
+> (conocimiento del sistema de graduación de su grupo).
 
 ## Formato de disputa
 

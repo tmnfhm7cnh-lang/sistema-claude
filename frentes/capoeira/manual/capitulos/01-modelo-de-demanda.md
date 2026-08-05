@@ -9,7 +9,7 @@ producirlo?
 | 1.1 Lo que define el éxito: el reglamento | borrador |
 | 1.2 Qué hacen quienes ganan | vacío — requiere análisis observacional |
 | 1.3 Acciones técnicas que puntúan | vacío — depende de 1.2 |
-| 1.4 Perfil de esfuerzo real | borrador |
+| 1.4 Perfil de esfuerzo real | **validado 2026-08-05** |
 
 ---
 
@@ -98,7 +98,7 @@ fisiológica de un **jogo por parejas** discriminando por ritmo. n = 11 varones,
   aeróbico/anaeróbico no se midió, se infiere del lactato y la FC.
 - n = 11, un solo sexo, practicantes experimentados que no son competidores de división Iniciantes.
 
-### 🔴 Revisión de una conclusión previa — requiere validación de Samurai
+### Revisión de una conclusión previa — ✅ validada por Samurai el 2026-08-05
 
 La corrección anterior decía: *"a 60 s de pausa la resíntesis de PCr ronda el 80–85 % `[A]`, luego el
 fosfágeno se restaura en buena medida y lo que no se restaura es el pH. En consecuencia, la

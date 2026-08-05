@@ -10,6 +10,33 @@ reglamento, no de una fuente validada. Se ajustarán cuando se codifiquen los pr
 
 ---
 
+## Pasada rápida v1 — empieza por aquí
+
+La plantilla completa de abajo tiene 25 variables. **Codificar eso en el primer jogo no funciona**: se
+tarda una hora, se codifica mal por falta de rodaje y se abandona. La v1 son **cinco variables en dos
+pasadas**, unos 10 minutos por jogo:
+
+**Pasada A — qué hace atacando**
+1. `ataques_total` — golpes lanzados.
+2. `reacciones_forzadas` — de esos, cuántos provocan esquiva, cobertura o desplazamiento del rival.
+3. `intentos_desequilibrio` — rasteiras, bandas, vingativas, boca de calça.
+
+**Pasada B — qué le cuesta**
+4. `caidas` — contactos no intencionales de mano, rodilla, cadera o espalda con el suelo.
+5. `acciones_total` — todas las acciones codificables (golpe, esquiva, floreio, desplazamiento).
+
+De ahí salen los dos números que interesan: `indice_objetividad = reacciones_forzadas / ataques_total`
+y `densidad = acciones_total / 45`.
+
+**Qué codificar primero:** el **jogo 1 de los dos atletas** de un mismo enfrentamiento cuyo resultado
+conozcas. Dos filas, veinte minutos, y ya tienes el contraste ganador/perdedor que pide el §1.2 del
+capítulo 1. Los jogos 2 y 3 vienen después: dan la curva de caída, que es lo que valida o tumba la
+hipótesis del §1.4.
+
+Registro: `frentes/capoeira/privado/analisis-jogos.csv` (se abre en Numbers en el iPad).
+
+---
+
 ## Reglas de registro
 
 - **Unidad de análisis:** un jogo (45 s). Cada enfrentamiento son 3 filas.

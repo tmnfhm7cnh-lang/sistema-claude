@@ -27,13 +27,14 @@ da Angola**, **4 pilares** juzgados por 3 árbitros (técnica, objetividad, volu
 **nocaut = descalificación inmediata**. La corrección de formato que se traía de antes queda
 confirmada por la fuente oficial.
 
-## 🔴 Dos cosas que hay que resolver ya, y no dependen de entrenar
+## 🔴 Lo que no depende de entrenar
 
-1. **Confirmar la división.** El reglamento sitúa Iniciantes en «Corda Crua até Amarela» y **no
-   menciona la corda Cinza** en ninguna división de adultos. Puede ser que el resumen publicado omita
-   cordas intermedias. Es una pregunta para el mestre, y determina el nivel de los rivales y todo el
-   capítulo 1.
-2. **Inscripción: cierra el 2026-09-13.** Solo online. Quedan cinco semanas y media.
+**Inscripción: cierra el 2026-09-13.** Solo online, en europeumuzenza.com. Quedan cinco semanas y
+media. Es lo único de este frente con fecha de caducidad dura.
+
+**División confirmada el 2026-08-05: Alunos Adulto – Iniciantes.** La corda Cinza va entre Crua y
+Amarela en la graduación de Muzenza, luego entra en «Crua até Amarela». El reglamento publicado omite
+las cordas intermedias, no las excluye.
 
 ## Estado del manual
 
@@ -60,11 +61,13 @@ Instanciado el 2026-08-05. Índice y tabla de estado en [`manual/MANUAL.md`](man
 
 ## Próximo paso
 
-**Preguntar al mestre en qué división te inscriben** (la corda Cinza no está en la tabla del
-reglamento) y **hacer la inscripción antes del 2026-09-13**.
+1. **Inscribirse antes del 2026-09-13** en europeumuzenza.com, Alunos Adulto – Iniciantes.
+2. En el manual: **llenar el §1.2** codificando en YouTube el jogo 1 de los dos atletas de un
+   enfrentamiento de Iniciantes con la
+   [pasada rápida v1](manual/datos/observacional/plantilla-analisis-jogo.md) (5 variables, ~20 min las
+   dos filas). Es lo que desbloquea §1.3, y con ello el capítulo 2.
 
-En el manual: **cerrar el capítulo 1** — validar o corregir la revisión del §1.4 y llenar §1.2
-codificando con la plantilla los primeros jogos de la división Iniciantes que se encuentren en vídeo.
+§1.4 quedó `validado` el 2026-08-05. `[Obs]` y la regla de los tres campos para `[C]` están adoptados.
 
 ## Estructura
 

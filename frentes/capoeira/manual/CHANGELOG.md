@@ -2,6 +2,19 @@
 
 Una línea por cambio, con fecha `AAAA-MM-DD`. Lo más reciente arriba.
 
+## 2026-08-05 — segunda tanda
+
+- **División confirmada: Alunos Adulto – Iniciantes.** La corda Cinza va entre Crua y Amarela en la
+  graduación de Muzenza. Deuda cerrada.
+- **Cap. 1 §1.4 `validado` por Samurai**, incluida la revisión del mecanismo (glucólisis no marginal).
+- **`[Obs]` y la regla de los tres campos para `[C]` quedan adoptados** por delegación explícita de
+  Samurai. Cap. 0 sigue `borrador` hasta que lo lea entero.
+- Añadida a la plantilla observacional una **pasada rápida v1** de 5 variables en 2 pasadas (~10 min
+  por jogo), porque codificar 25 variables en el primer jogo no se sostiene. Creado
+  `privado/analisis-jogos.csv` con su cabecera.
+- Confirmado que **hay acceso a vídeos de YouTube**: la ruta del §1.2 es codificar jogos ajenos de
+  Iniciantes antes de codificar simulacros propios.
+
 ## 2026-08-05
 
 - Manual instanciado en `frentes/capoeira/manual/`: índice, 8 capítulos y 4 anexos creados con su
