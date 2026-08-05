@@ -1,0 +1,28 @@
+# CHANGELOG
+
+Una línea por cambio, con fecha `AAAA-MM-DD`. Lo más reciente arriba.
+
+## 2026-08-05
+
+- Manual instanciado en `frentes/capoeira/manual/`: índice, 8 capítulos y 4 anexos creados con su
+  pregunta y estado `vacío`.
+- Cap. 0 «Cómo se usa este manual» redactado completo → `borrador`.
+- **Añadido el nivel de evidencia `[Obs]`** (dato observacional propio) al esquema `[A]/[B]/[C]`, y
+  fijado el requisito de tres campos (origen · supuesto de transferencia · criterio de refutación)
+  para que un `[C]` pueda entrar en el manual. **Pendiente de validación de Samurai.**
+- **Reglamento oficial del campeonato verificado** en europeumuzenza.com y transcrito a
+  `fuentes/reglamento-europeu-muzenza-2026.md`. Confirma 3 × 45 s / 1 min / al mejor de 3, los 4
+  pilares con sus subcriterios textuales, 3 árbitros de evaluación, São Bento Grande da Angola y
+  nocaut = descalificación.
+- Detectado: **cierre de inscripciones el 2026-09-13** y **la corda Cinza no figura en la tabla de
+  divisiones de adultos** del reglamento resumido.
+- Cap. 1 §1.1 «Lo que define el éxito» y §1.4 «Perfil de esfuerzo real» redactados → `borrador
+  parcial`. §1.2 y §1.3 quedan `vacío` a la espera de análisis observacional.
+- **Revisión propuesta de una corrección validada:** con Moreira et al. (2018) `[B]` —lactato
+  15,7 ± 2,6 mM y 69–102 % de FCmáx en jogo de São Bento— la contribución glucolítica **no** es
+  marginal. Se mantiene la conclusión (el limitante del jogo 3 es la calidad técnica), se corrige el
+  mecanismo (acidosis + fatiga neuromuscular + coste atencional). **Pendiente de validación.**
+- Plantilla de análisis observacional de jogo creada con 5 bloques de variables `[C]` derivadas del
+  reglamento, esquema de `.csv` y criterio de refutación explícito.
+- Cabecera de cuarentena redactada en `fuentes/_CUARENTENA/LEEME.md`. El informe previo **no está en
+  esta máquina**: hay que traerlo.

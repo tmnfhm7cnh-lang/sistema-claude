@@ -9,6 +9,10 @@ El entrenamiento propio de Daniel. Deportes principales: **calistenia y capoeira
 atletismo, halterofilia y muay thai son medios, no fines: entran cuando sirven a un objetivo de
 calistenia o capoeira.
 
+**Lo específico de capoeira competitiva no vive aquí**: desde el 2026-08-05 tiene frente propio en
+[capoeira](../capoeira/ESTADO.md), con el Manual Maestro y la preparación del campeonato de octubre.
+Aquí queda el entrenamiento propio en general y la revisión mensual.
+
 Está dentro del sistema por dos razones: es una de las tres revisiones mensuales ineludibles, y su
 propio entrenamiento es el laboratorio donde prueba lo que luego aplica con alumnos y atletas.
 

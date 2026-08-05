@@ -36,6 +36,11 @@ cafeína y salto vertical.*
 - **natación artística** · [triaje-fuentes-natacion-artistica](notas/triaje-fuentes-natacion-artistica.md)
   — qué es cada una de las 26 fuentes, cuáles están leídas de verdad y cuáles no, y las lagunas
   temáticas detectadas. Empieza por aquí antes de abrir cualquier PDF.
+- **capoeira / fisiología** · [capoeira-demanda-fisiologica-ritmos](notas/capoeira-demanda-fisiologica-ritmos.md)
+  — Moreira et al. (2018), PLoS ONE: FC y lactato en jogo por parejas de 90 s en Angola, Benguela y
+  São Bento. **El único `[B]` localizado que cuantifica la demanda del jogo por ritmo**: São Bento da
+  69–102 % de FCmáx y 15,7 mM de lactato. Obliga a revisar el perfil bioenergético del capítulo 1 del
+  Manual Maestro de **capoeira**. Con sus limitaciones anotadas (90 s ≠ 45 s, jogo libre ≠ juzgado).
 - **gimnasia artística / coreografía** · [inventario-gimnasia-artistica-uem](notas/inventario-gimnasia-artistica-uem.md)
   — índice de los 536 archivos de la asignatura Gimnasia Artística III (UEM): vídeo técnico por
   aparatos, normativa FIG, planificación del entrenamiento y **preparación coreográfica**. El material
