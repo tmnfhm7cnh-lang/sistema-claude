@@ -2,6 +2,18 @@
 
 Una línea por cambio, con fecha `AAAA-MM-DD`. Lo más reciente arriba.
 
+## 2026-08-05 — tercera tanda
+
+- Registrado el aviso del profesor: **arbitraje muy subjetivo**, la organización habló de premiar
+  «boa capoeira». Añadida al cap. 1 §1.1 la subsección **«El criterio local del juez»** y reescrito el
+  §1.2 con dos fuentes ordenadas: primero opinión de experto (la charla), después `[Obs]` (vídeo).
+- Fijada, como `[C]` con criterio de refutación, la lectura de «demostrar superioridad»: **imponer el
+  diálogo**, no dominar físicamente ni acumular movimientos.
+- Creado `frentes/capoeira/preguntas-al-profesor.md` — 11 preguntas, con la ponderación entre pilares
+  y el visionado conjunto de vídeos como prioridades.
+- **Decisión abierta:** reenfocar el manual como procedimiento (`manual/`) + instancia por competición
+  (`ciclos/<objetivo>/`). Pendiente de Daniel.
+
 ## 2026-08-05 — segunda tanda
 
 - **División confirmada: Alunos Adulto – Iniciantes.** La corda Cinza va entre Crua y Amarela en la

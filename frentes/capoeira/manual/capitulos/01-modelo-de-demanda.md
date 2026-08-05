@@ -55,10 +55,44 @@ parte de una premisa inválida y está en `fuentes/_CUARENTENA/`.
    jogo paralelo. `└ refutación:` si en vídeo los ganadores muestran tanto o menos encaje que los
    perdedores.
 
+### El criterio local del juez *(2026-08-05)*
+
+El profesor avisó de que **el arbitraje va a ser muy subjetivo** y que en la organización se habló
+internamente de premiar **«boa capoeira»**. Dos consecuencias, y ninguna de las dos invalida lo
+anterior:
+
+1. **Los cuatro pilares ya son la definición que da la organización de «boa capoeira»**, escrita con
+   sus propias palabras. No son una rúbrica ajena al criterio subjetivo: son ese criterio,
+   operacionalizado hasta donde la organización quiso operacionalizarlo. Lo que queda fuera del texto
+   es la **ponderación** —qué pilar decide cuando dos jogos empatan— y el umbral de cada división.
+2. **La parte no escrita se obtiene preguntando, no deduciendo.** Es un eslabón de la cadena cuya
+   respuesta es local a este grupo y a estos árbitros, y la fuente válida es quien conoce esa cultura
+   de arbitraje: el profesor y los mestres. Preguntas preparadas en
+   [`preguntas-al-profesor.md`](../../preguntas-al-profesor.md).
+
+**«Demostrar superioridad en el juego» tiene una lectura concreta bajo este reglamento**, y conviene
+fijarla antes de la charla para poder confrontarla con lo que él diga: superioridad **no** es
+dominación física —el nocaut descalifica— ni acumulación de movimientos —eso es volumen sin
+objetividad—. Es **imponer el diálogo**: obligar al rival a reaccionar a lo que tú propones más veces
+de las que tú reaccionas a lo suyo, sin perder base ni ritmo. `[C]`
+`├ origen:` lectura conjunta de «construção de risco real», «busca por desequilíbrios» y «encaixe» del
+reglamento. `├ supuesto:` los árbitros leen el jogo como un intercambio con iniciativa, no como dos
+exhibiciones simultáneas. `└ refutación:` si el profesor dice que se premia sobre todo la calidad
+formal del movimiento propio con independencia de lo que provoque en el rival, esta lectura es falsa y
+el entrenamiento debe cambiar de eje.
+
 ## 1.2 · Qué hacen quienes ganan
 
-`vacío`. Es el eslabón que solo se puede llenar con **análisis de vídeo de la propia división**:
-plantilla en [`datos/observacional/plantilla-analisis-jogo.md`](../datos/observacional/plantilla-analisis-jogo.md).
+`vacío`. Dos fuentes, y la primera es más barata y más fiable que la segunda:
+
+1. **Opinión de experto:** la charla con el profesor —
+   [`preguntas-al-profesor.md`](../../preguntas-al-profesor.md). Es la única vía de acceso al criterio
+   no escrito, y además calibra la plantilla de codificación.
+2. **`[Obs]`:** análisis de vídeo de jogos de Iniciantes con la
+   [plantilla](../datos/observacional/plantilla-analisis-jogo.md), pasada rápida v1.
+
+Orden recomendado: **primero la charla, después codificar**. Codificar sin saber qué cuenta como
+«risco real» para un árbitro de Muzenza es contar movimientos con una definición inventada.
 
 ## 1.3 · Acciones técnicas que puntúan
 

@@ -59,15 +59,33 @@ Instanciado el 2026-08-05. Índice y tabla de estado en [`manual/MANUAL.md`](man
 - *(2026-08-05)* **Vídeos y datos de rivales o compañeros** van a `privado/`, codificados (`OPP-01`).
   No salen de esta máquina.
 
+## Arbitraje subjetivo — lo que dijo el profesor *(2026-08-05)*
+
+Aviso del profesor: **el arbitraje va a ser muy subjetivo** y en la organización se habló de premiar
+**«boa capoeira»**. Queda pendiente una charla con él para que guíe en eso.
+
+Lectura adoptada: los cuatro pilares del reglamento **son** la definición que da la organización de
+«boa capoeira»; lo que no está escrito es la ponderación entre pilares y el umbral de la división. Esa
+parte se obtiene preguntando, y es un eslabón legítimo de la cadena, no una laguna del método.
+Preguntas preparadas en [`preguntas-al-profesor.md`](preguntas-al-profesor.md) — lo más valioso de la
+lista es ver dos o tres vídeos **con él delante** para calibrar la plantilla de codificación.
+
 ## Próximo paso
 
 1. **Inscribirse antes del 2026-09-13** en europeumuzenza.com, Alunos Adulto – Iniciantes.
-2. En el manual: **llenar el §1.2** codificando en YouTube el jogo 1 de los dos atletas de un
-   enfrentamiento de Iniciantes con la
-   [pasada rápida v1](manual/datos/observacional/plantilla-analisis-jogo.md) (5 variables, ~20 min las
-   dos filas). Es lo que desbloquea §1.3, y con ello el capítulo 2.
+2. **Tener la charla con el profesor** con [`preguntas-al-profesor.md`](preguntas-al-profesor.md)
+   delante. Va antes de codificar vídeos: codificar sin saber qué cuenta como «risco real» para un
+   árbitro de Muzenza es contar movimientos con una definición inventada.
+3. Después: **llenar el §1.2** codificando en YouTube el jogo 1 de los dos atletas de un enfrentamiento
+   de Iniciantes con la [pasada rápida v1](manual/datos/observacional/plantilla-analisis-jogo.md).
 
 §1.4 quedó `validado` el 2026-08-05. `[Obs]` y la regla de los tres campos para `[C]` están adoptados.
+
+## Decisión pendiente de Daniel
+
+**Reenfocar el manual como procedimiento** en vez de como tratado, y separar lo estable de lo
+específico de cada competición: `manual/` = las instrucciones para generar un plan; `ciclos/<objetivo>/`
+= la instancia de cada competición concreta. Planteado por él el 2026-08-05. Sin decidir.
 
 ## Estructura
 
