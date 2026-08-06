@@ -1,6 +1,6 @@
 # Preguntas para la charla con el profesor
 
-**Creado:** 2026-08-05 · **Estado:** pendiente de la charla.
+**Creado:** 2026-08-05 · **Charla: lunes 2026-08-10.** · **Estado:** pendiente.
 **Para qué:** el profesor avisó de que el arbitraje va a ser **muy subjetivo** y que en la organización
 se habló de premiar **«boa capoeira»**. Eso no es un obstáculo para el manual: es un **eslabón de la
 cadena que solo él puede llenar**. El criterio local del juez no está escrito en ningún reglamento y
@@ -50,7 +50,8 @@ la conversación. Lo prioritario es el bloque 1 y la pregunta 5.1.
     jogos comentados se puede calibrar la
     [plantilla de codificación](manual/datos/observacional/plantilla-analisis-jogo.md) —qué cuenta
     como «risco real», qué cuenta como «encaixe»— que hoy está definida por deducción del texto del
-    reglamento y nada más.
+    reglamento y nada más. Plantilla:
+    [`manual/datos/observacional/plantilla-analisis-jogo.md`](../../manual/datos/observacional/plantilla-analisis-jogo.md).
 
 ---
 
