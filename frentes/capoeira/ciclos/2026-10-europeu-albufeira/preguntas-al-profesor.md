@@ -48,7 +48,7 @@ la conversación. Lo prioritario es el bloque 1 y la pregunta 5.1.
 11. **Pídele ver dos o tres vídeos de jogos de Iniciantes con él delante**, que te diga quién ganó y
     por qué antes de decírselo tú. Eso convierte su criterio en una rúbrica utilizable: con dos o tres
     jogos comentados se puede calibrar la
-    [plantilla de codificación](manual/datos/observacional/plantilla-analisis-jogo.md) —qué cuenta
+    [plantilla de codificación](../../manual/datos/observacional/plantilla-analisis-jogo.md) —qué cuenta
     como «risco real», qué cuenta como «encaixe»— que hoy está definida por deducción del texto del
     reglamento y nada más. Plantilla:
     [`manual/datos/observacional/plantilla-analisis-jogo.md`](../../manual/datos/observacional/plantilla-analisis-jogo.md).

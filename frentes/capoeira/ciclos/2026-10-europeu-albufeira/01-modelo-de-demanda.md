@@ -207,6 +207,6 @@ En orden de coste creciente y **todo factible sin laboratorio salvo el último**
   [`biblioteca/notas/capoeira-demanda-fisiologica-ritmos.md`](../../../../biblioteca/notas/capoeira-demanda-fisiologica-ritmos.md).
 - Reglamento resumido del 19.º Campeonato Europeu Aberto de Capoeira 2026, Grupo Muzenza.
   https://europeumuzenza.com/regulamento/ · consultado el 2026-08-05. Transcripción en
-  [`fuentes/reglamento-europeu-muzenza-2026.md`](../fuentes/reglamento-europeu-muzenza-2026.md).
+  [`fuentes/reglamento-europeu-muzenza-2026.md`](fuentes/reglamento-europeu-muzenza-2026.md).
 - Cinética de resíntesis de PCr y aclaramiento de H⁺: **sin fuente primaria citada todavía**.
   `[PENDIENTE-VERIFICAR]`
