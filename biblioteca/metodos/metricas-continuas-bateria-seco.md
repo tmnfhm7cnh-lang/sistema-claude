@@ -242,12 +242,33 @@ mantener.
 | Tiempo de descenso excéntrico controlado desde arriba | s |
 | Tiempo de isométrico a 90° de codo | s |
 
-**Aquí está la mejor métrica de progreso de toda la batería para quien no llega:** la **reducción de la
-asistencia**. Pasar de la goma gruesa a la media es un logro medible y motivador aunque el binario siga
-en "no apto" durante meses. Y tenéis gomas: no hace falta comprar nada.
+> ⚠️ **La goma queda fuera como asistencia de dominada** *(decisión de Daniel, 2026-08-06)*. La goma
+> invierte la curva de fuerza —asiste abajo, donde la palanca ya es favorable, y casi nada arriba, que
+> es el punto duro—, añade inestabilidad y enseña un patrón de rebote. Con niñas de 9–11 años
+> aprendiendo el gesto, eso es enseñar mal.
+>
+> **Métricas provisionales que la sustituyen**, mientras se buscan alternativas de asistencia sólidas:
+> **segundos de negativa controlada**, **segundos de isométrico a 90° de codo** y **altura de la barra
+> en el australian pull-up en cm**. Las tres son objetivas y ninguna depende del material. Detalle y
+> razonamiento en
+> [`progresiones-por-patron.md`](../../frentes/natacion-artistica/programacion/02-programacion/progresiones-por-patron.md),
+> patrón P1b.
+>
+> La **asistencia de compañera** vale como método de enseñanza y de volumen, **no como métrica**: no es
+> cuantificable ni repetible entre mediciones.
+>
+> Este apartado se reescribe cuando se cierre la alternativa. Hasta entonces, **no uses la reducción de
+> goma como métrica de progreso** aunque el párrafo de abajo lo diga.
 
-Numera las gomas del club (`G1` la más fuerte, `G2`, `G3`…) y registra la etiqueta, no el color: los
-colores no son estándar entre marcas y en dos años nadie recordará cuál era la verde.
+~~**Aquí está la mejor métrica de progreso de toda la batería para quien no llega:** la **reducción de la
+asistencia**. Pasar de la goma gruesa a la media es un logro medible y motivador aunque el binario siga
+en "no apto" durante meses. Y tenéis gomas: no hace falta comprar nada.~~
+
+~~Numera las gomas del club (`G1` la más fuerte, `G2`, `G3`…) y registra la etiqueta, no el color: los
+colores no son estándar entre marcas y en dos años nadie recordará cuál era la verde.~~
+
+*(La regla de numerar las gomas `G1`, `G2`… y registrar la etiqueta en vez del color **sigue en vigor**
+para todo lo demás: remo con goma, theraband, trabajo de rotadores.)*
 
 ---
 

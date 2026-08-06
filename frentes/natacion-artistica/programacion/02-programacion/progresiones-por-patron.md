@@ -143,8 +143,9 @@ Combinaciones que tienen sentido, para el bloque de fuerza:
 | Escalera P1a, escalones 1–8 | ✅ **validada** con la corrección del ángulo de rodilla en el escalón 4 |
 | Escalera P1b, escalones 1–7 | ✅ **validada** con las gomas fuera y `australian pull-up` como nomenclatura |
 | Negativa e isométrico: ¿escalones o métodos? | ✅ **resuelto: ambas cosas**, según haya criterio de salto o no |
-| Métrica sustituta de la reducción de goma | 🟡 propuesta (3 números). **Pendiente de tu visto bueno** |
-| Actualizar `metricas-continuas-bateria-seco.md`, prueba 9 | 🔴 la goma sigue ahí como métrica principal. Hay que corregirlo |
+| Escalones 1, 2, 3, 5, 6, 7 y 8 de P1a | ✅ **validados** (2026-08-06) |
+| Métrica sustituta de la reducción de goma | ⏸ **aplazado por Daniel** (2026-08-06): se retoma para proponer alternativas sólidas. Los tres números propuestos (s de negativa, s de isométrico, cm de altura de barra) quedan como provisionales y **utilizables ya** |
+| Actualizar `metricas-continuas-bateria-seco.md`, prueba 9 | ⏸ Depende de lo anterior. Avisado en el propio archivo para que nadie use la goma por inercia |
 
 ---
 
