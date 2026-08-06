@@ -23,7 +23,7 @@ Su cabecera de advertencia, ya redactada para pegarla en cuanto llegue el archiv
 > descansos cortos** (del tipo 12 × 45/15 s). **El formato real es 3 jogos de 45 s con 1 minuto
 > completo de descanso entre ellos, al mejor de 3**, con eliminación en caso de derrota. Verificado
 > el 2026-08-05 contra el reglamento oficial del evento:
-> [`../reglamento-europeu-muzenza-2026.md`](../reglamento-europeu-muzenza-2026.md).
+> [`ciclos/2026-10-europeu-albufeira/fuentes/reglamento-europeu-muzenza-2026.md`](../../../ciclos/2026-10-europeu-albufeira/fuentes/reglamento-europeu-muzenza-2026.md).
 >
 > **Qué queda invalidado por esa premisa:**
 > - La **tolerancia al lactato como objetivo prioritario** de entrenamiento. La densidad de esfuerzo

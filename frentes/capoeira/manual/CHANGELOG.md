@@ -2,6 +2,22 @@
 
 Una línea por cambio, con fecha `AAAA-MM-DD`. Lo más reciente arriba.
 
+## 2026-08-06 — v3.0: el manual pasa a ser procedimiento
+
+- **Reenfoque aprobado por Samurai.** El manual deja de ser un tratado y pasa a ser el procedimiento
+  que genera planes. Separación en dos: `manual/` (estable) y `ciclos/<AAAA-MM-objetivo>/` (instancia).
+- Creado `ciclos/2026-10-europeu-albufeira/` con su `INDICE.md`. **Movidos** allí el reglamento, las
+  preguntas al profesor y el contenido del capítulo 1 (que era específico de esta competición).
+- **Cap. 0 reescrito**: los siete pasos para arrancar un ciclo, en modo imperativo. Añadido al segundo
+  eslabón de la cadena el **criterio local de quien juzga**, como paso universal de respuesta local.
+  Añadido el nivel **`[Experto]`**.
+- **Cap. 1 reescrito como procedimiento**: cinco pasos, con la trampa explícita de deducir de "el
+  sustrato se recupera" que "la capacidad no importa". Checklist de cierre.
+- **Caps. 3 y 5 pasan de "tratado en versión mínima" a "reglas de decisión"** de cuatro páginas. Con
+  eso salen de la lista de aparcados hasta noviembre y caben antes del campeonato.
+- Caps. 2, 4, 6, 7: declarada la forma prevista y la salida que producen en el ciclo. Siguen `vacío`.
+- Registrado: **inscripción hecha** y **charla con el profesor el lunes 2026-08-10**.
+
 ## 2026-08-05 — tercera tanda
 
 - Registrado el aviso del profesor: **arbitraje muy subjetivo**, la organización habló de premiar
