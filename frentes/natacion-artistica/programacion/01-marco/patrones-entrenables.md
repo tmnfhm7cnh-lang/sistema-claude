@@ -42,7 +42,7 @@ cada categoría tiene delante.
 |---|---|---|---|
 | **Alevín** *(prueba en diciembre, 25 sesiones)* | P1, P2, P3 | P4, P5 | P6 |
 | **Infantil** *(prueba en octubre, 11 sesiones)* | **P1, P4, P6** — son exactamente sus tres pruebas | P5 | P2, P3 |
-| **Junior** *(sin prueba, 13 sesiones de 75 min)* | P1, P2, P5 | P3, P4, P6 | — |
+| **Junior** *(sin hito externo conocido, 13 sesiones de 75 min)* | P1, P2, P5 | P3, P4, P6 | — |
 
 En Infantil el reparto no es una preferencia: con once sesiones, repartir entre seis patrones es no
 trabajar ninguno. Sus tres pruebas son elevaciones colgada, vertical de 3 apoyos con rotación de

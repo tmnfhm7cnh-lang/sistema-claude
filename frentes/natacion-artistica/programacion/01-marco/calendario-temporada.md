@@ -35,7 +35,26 @@ Al revés sí.
 |---|---|---|---|
 | **Alevín** | martes y jueves, 45 min | **25** (10-sep → 1-dic) | ≈ 18 h 45 min |
 | **Infantil** | martes y jueves, 45 min | **11** (10-sep → 15-oct) | ≈ 8 h 15 min |
-| **Junior** | viernes, 75 min | sin hito; **13** hasta el 4-dic | ≈ 16 h 15 min |
+| **Junior** | viernes, 75 min | **sin hito externo conocido** — ver abajo | ≈ 16 h 15 min hasta el 4-dic |
+
+### ⚠ Junior no tiene hito, y eso hay que resolverlo
+
+*(corregido el 2026-08-06, a raíz de una pega de Daniel)* El borrador del 2026-08-03 cerraba el bloque
+de Junior en la sesión 13, el **viernes 2026-12-04**. Eso no es un hito: es un corte de calendario
+puesto para que el bloque fuera comparable con el de Alevín. No lo justifica nada.
+
+Los tres candidatos a hito real, por orden de peso:
+
+| # | Candidato | Estado |
+|---|---|---|
+| 1 | **La primera competición del calendario federativo.** Junior compite a nivel nacional y hace 12 h de agua semanales; el hito de un grupo que compite es la competición | ⏸ El calendario lo publica la Federación **en septiembre**. Es un hueco, no un dato |
+| 2 | **Prueba de nivel de alguna nadadora que venga de no federada.** El club dijo que en Junior solo se examina al cambiar de categoría —salvo el paso a Junior— **o al pasar de no federada a federada** | 🔴 **Sin preguntar.** Son seis nadadoras: una pregunta de un minuto que puede cambiar el bloque entero |
+| 3 | **Hito interno: re-test de la batería**, sesión 6, viernes **2026-10-16** | ✅ Utilizable ya. No es oficial, pero cierra mesociclo con criterio y da algo que mostrar al club |
+
+**Criterio adoptado:** el re-test del 16 de octubre cierra el primer mesociclo, y **el bloque de Junior
+queda sin cerrar hasta que llegue el calendario federativo**. Con 13 sesiones de 75 minutos y sin
+plazo externo, la lógica correcta en Junior es la construcción continua, no la puesta en forma para
+una fecha. Forzar una fecha sería inventarse el plan.
 
 > ⚠ **Corrección respecto al borrador del 2026-08-03.** Ahí se contaban **15 sesiones** para Infantil
 > porque se tomaba "finales de octubre" (29-oct) como fecha. Con el peor caso del rango (15-oct) son
@@ -100,7 +119,8 @@ no se venda como si fuera toda la temporada.
 |---|---|---|---|
 | 1 | **Fecha exacta de la prueba de Infantil** | Club / Federación en septiembre | Es el dato crítico: mueve el bloque entre 11 y 15 sesiones |
 | 2 | Fecha exacta de la prueba de Alevín | Club / Federación | Mueve el bloque entre 25 y 28 sesiones |
-| 3 | Calendario de competición | Federación, septiembre | Define picos y descargas del segundo tramo |
+| 3 | Calendario de competición | Federación, septiembre | Define picos y descargas del segundo tramo, y **es el único hito posible de Junior** |
+| 3b | **¿Alguna Junior viene de no federada y tiene que examinarse?** | Club — se puede preguntar hoy | Si la hay, Junior pasa de "sin hito" a tener prueba con fecha |
 | 4 | Fechas de vacaciones de Navidad y Semana Santa del club | Club | Corta o alarga los bloques 15 y de primavera |
 | 5 | Fiestas locales de Boadilla del Monte 2026-27 | Club | Bajas puntuales |
 | 6 | Si el club entrena en puentes y festivos | Club | Ídem |
