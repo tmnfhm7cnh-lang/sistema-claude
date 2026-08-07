@@ -18,10 +18,19 @@ sesión. Con 90 minutos semanales no hay sitio para ejercicios "que vienen bien"
 |---|---|---|---|---|
 | **P1** | **Colgada y tracción** | Elevaciones de piernas colgada *(Alevín 2, Infantil)* · dominadas en pronación y supinación *(Alevín 2)* | 1 · Fuerza | Sculling sostenido: el hombro trabaja en posiciones extendidas y por encima de la cabeza durante todo el ejercicio. Es también la articulación con más lesión por sobreuso en este deporte |
 | **P2** | **Empuje horizontal** | Plancha y 5 flexiones *(Alevín 1)* · fase de flexión de los 8 burpees *(Alevín 2)* | 1 · Fuerza · 5 · Estabilidad | Equilibrio del hombro. Sin empuje, todo el trabajo de tracción y de sculling deja el hombro descompensado |
-| **P3** | **Potencia de piernas** | 10 squat jumps ≥ 20 cm *(Alevín 1)* · salto final del burpee | 1 · Fuerza | Boost y elevaciones: son acciones de potencia, no de resistencia. La pierna tiene que producir fuerza rápido |
+| **P3** | **Potencia y resistencia de salto** | 10 squat jumps ≥ 20 cm en ≤20 s *(Alevín 1)* · salto final del burpee · **1 minuto de comba** *(Infantil)* | 1 · Fuerza | Boost y elevaciones: son acciones de potencia, no de resistencia. La pierna tiene que producir fuerza rápido |
 | **P4** | **Core en hollow y compresión** | 12 elevaciones tumbada con pies detrás de la cabeza *(Alevín 1)* · elevación desde tumbada *(Infantil)* | 4 · Control postural · 5 · Estabilidad | Todo lo que se hace fuera del agua se sostiene desde aquí. Y la zona lumbar es el segundo foco lesivo del deporte |
 | **P5** | **Extensión corporal y movilidad de hombro** | Puente con brazos perpendiculares *(Alevín 1)* · pino-puente-remontada *(Alevín 2)* | 3 · Extensión corporal · 2 · Flexibilidad | Es la línea que se juzga en el agua. Y un puente que no llega casi nunca es falta de fuerza: es flexión de hombro |
 | **P6** | **Apertura de cadera y control invertido** | Ariana y espagats con tolerancias en cm · vertical de 3 apoyos con rotación de ariana *(Infantil)* | 2 · Flexibilidad activa y pasiva | Eggbeater: rodillas altas y separadas, patada lateral, rotación del muslo. Exige cadera en abducción y rotación con **fuerza en el rango final**, no solo rango pasivo |
+
+> ⚠️ **La comba se había quedado sin patrón** *(corregido el 2026-08-07, al escribir las progresiones)*.
+> De las 17 pruebas de la batería, 16 caían en P1–P6 y **el minuto de comba de Infantil no estaba en
+> ninguna casilla**. Entra en P3, que pasa de llamarse *"potencia de piernas"* a **"potencia y
+> resistencia de salto"**. No se crea un séptimo patrón por una prueba, y P3 ya tenía componente de
+> resistencia: los 10 saltos en 20 segundos son potencia repetida, no salto máximo.
+>
+> Esto explica además por qué el club usa tanto la comba: **es criterio oficial**, no relleno de
+> acondicionamiento.
 
 ## Lo que demuestra la tabla
 

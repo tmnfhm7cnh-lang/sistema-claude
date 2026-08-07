@@ -4,7 +4,8 @@
 **Patrones:** [P1–P6](../01-marco/patrones-entrenables.md) · **Criterios oficiales:** [batería](../../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md) · **Cómo se mide:** [métricas continuas](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md)
 
 > **ESTADO.** ✅ **P1 validado el 2026-08-06. P4 validado el 2026-08-07** — la escalera de P4 es
-> propuesta de Daniel, no mía. Quedan **P2, P3, P5 y P6 sin escribir**.
+> propuesta de Daniel, no mía. **P2, P3, P5 y P6 escritos en borrador el 2026-08-07, esperando
+> revisión**: los seis patrones ya tienen escalera, ninguna prueba oficial queda sin progresión.
 >
 > Las escaleras que propongo yo salen de los criterios oficiales y de progresiones estándar de
 > calistenia; **no son criterio de entrenador hasta que él las revisa escalón por escalón**. Lo
@@ -271,23 +272,180 @@ Consecuencia para el plan de grupo: en `02-programacion/infantil.md`, la ruta de
 
 ## P2 · Empuje horizontal
 
-🔴 **Sin escribir.** Cierra: plancha 20" + 5 flexiones de tríceps *(Alevín 1)* y la fase de flexión de
-los 8 burpees *(Alevín 2)*. La métrica para quien no hace ninguna flexión válida ya está decidida:
-**altura del plano inclinado en cm**, no "0 flexiones".
+**Pruebas oficiales que cierra:** 20" de plancha + 5 flexiones de tríceps *(Alevín 1)* · la fase de
+flexión de los 8 burpees *(Alevín 2)*.
 
-## P3 · Potencia de piernas
+**Aplico aquí tu lógica de P4:** la plancha es a P2 lo que el hollow es a P4 — **no es un escalón que
+se supera y se abandona, es la posición que se mantiene mientras se le añade movimiento.** Del escalón
+3 en adelante, toda flexión que pierda la alineación de plancha no cuenta como repetición.
 
-🔴 **Sin escribir.** Cierra: 10 squat jumps de ≥20 cm **en ≤20 s** *(Alevín 1)* y el salto del burpee.
-Ojo al diseñar: el límite de 20 s la convierte en **potencia repetida**, no en salto máximo.
+### Los tres criterios técnicos que atraviesan la escalera
+
+1. **Alineación oreja–tobillo**, muñecas bajo los hombros.
+2. **Codos pegados a las costillas.** Es criterio oficial explícito: son flexiones **de tríceps**, no
+   flexiones abiertas. Una flexión con codos hacia fuera no es esta prueba.
+3. **Lumbar sin curvarse** más allá de lo fisiológico.
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+|---|---|---|---|---|
+| 1 | Plancha alta con rodillas apoyadas | **20 s** con alineación hombro–cadera | s | Cadera alta o lumbar hundida |
+| 2 | **Plancha alta completa** *(la posición del criterio oficial)* | **20 s** = criterio oficial ya cumplido | s | Aguanta más bajando la cadera. Se para el reloj en la primera pérdida visible |
+| 3 | Flexión en plano elevado, codos pegados | **8 reps** manteniendo la plancha entre repeticiones | reps + **altura del plano en cm** | Abre los codos en cuanto cuesta |
+| 4 | Bajar la altura del plano | 8 reps a la altura siguiente | **cm del plano** ← *métrica principal de esta fase* | — |
+| 5 | Negativa en el suelo | **3 bajadas de 5 s** con control hasta abajo | **s de bajada** | Se cae de golpe en el último tercio |
+| 6 | Flexión completa en el suelo | **1 rep** con extensión completa y codos pegados | reps | Sube la cadera primero, en dos tiempos |
+| 7 | **Criterio Alevín 1:** 20" de plancha + 5 flexiones, máx. 1 incompleta | Cumplido | s + reps válidas de 5 | Las 5 salen, pero abriendo codos. Anota **cuáles** falla, no cuántas |
+| 8 | *(rama Alevín 2)* Flexión **bajo fatiga**, dentro del burpee | **8 burpees** con las 8 flexiones válidas | reps + **fallos por fase** | La flexión se degrada en las 4 últimas. Ese es el dato: no es metabólico, es empuje bajo fatiga |
+
+**Métrica para quien no hace ni una flexión válida:** la **altura del plano en cm**, nunca "0
+flexiones". Pasar de 40 a 25 cm en dos meses es progreso visible; un cero repetido durante dos meses es
+abandono.
+
+| Estado de validación | |
+|---|---|
+| La plancha como posición que se mantiene, no escalón que se abandona | 🟡 mío, aplicando tu criterio de P4 |
+| Escalera P2, escalones 1–8 y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
+| ¿El escalón 5 (negativa) va antes o después del 4? | ❓ en P1b decidiste que negativa e isométrico son escalón **y** método. Aquí lo he puesto como escalón. Confirma |
+
+---
+
+## P3 · Potencia de piernas *(y resistencia de salto)*
+
+**Pruebas oficiales que cierra:** 10 squat jumps de ≥20 cm **en ≤20 s** *(Alevín 1)* · el salto de los
+8 burpees *(Alevín 2)* · **1 minuto de comba** *(Infantil)*.
+
+> 🔴 **Hallazgo al escribir esto: la comba no tenía patrón asignado.** De las 17 pruebas de la batería,
+> 16 caían en P1–P6 y el minuto de comba se había quedado fuera de la tabla de
+> [patrones entrenables](../01-marco/patrones-entrenables.md). **Decisión mía:** entra en P3, ampliando
+> su definición de *"potencia de piernas"* a *"potencia y resistencia de salto"*. No creo un séptimo
+> patrón por una prueba, y P3 ya tenía componente de resistencia — los 10 saltos en 20 s son potencia
+> repetida, no salto máximo.
+
+**El límite de 20 segundos manda sobre todo el diseño.** Diez saltos en veinte segundos son **2 s por
+salto**: esto no es un test de salto máximo, es de **potencia repetida**. Se entrena como tal, con
+series cortas y densidad controlada, no buscando el salto más alto de la vida.
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+|---|---|---|---|---|
+| 1 | Técnica de sentadilla a 90° | **10 reps** sin que la rodilla pase la punta del pie | reps | Rodilla adelantada. Es criterio oficial, no un detalle |
+| 2 | Salto vertical con aterrizaje controlado | **5 reps** de calidad, aterrizaje amortiguado y silencioso | reps | Aterriza con rodilla rígida o hacia dentro |
+| 3 | Alcanzar los **20 cm** en un salto | 1 salto ≥ 20 cm *(un palmo, el umbral oficial)* | **cm, My Jump Lab** | — |
+| 4 | Serie corta | **5 saltos** consecutivos ≥ 20 cm | cm por rep | Cae por debajo de 20 en el 4.º y 5.º |
+| 5 | Serie completa sin reloj | **10 saltos** ≥ 20 cm, sin límite de tiempo | cm por rep | — |
+| 6 | **Criterio Alevín 1:** 10 saltos ≥ 20 cm **en ≤20 s** | Cumplido | s + reps ≥20 cm | Llega a los 10 pero en 28 s. Aquí el limitante ya es densidad, no fuerza |
+| 7 | Resistencia a la potencia | **caída < 10 %** entre las reps 1–3 y las 8–10 | **% de caída** | — |
+| 8 | *(rama comba, Infantil)* 30 s de comba | **30 s sin fallo** | saltos + fallos | — |
+| 9 | *(rama comba)* 60 s | **≤ 2 fallos** en el minuto | saltos + fallos + saltos seguidos máx. | — |
+| 10 | **Criterio Infantil:** 1 minuto de comba | Cumplido | saltos, fallos, y ritmo del primer y último cuarto | **El apto no lo decide el total, lo deciden los fallos.** 120 saltos con 6 tropiezos es peor que 90 seguidos |
+
+**En Alevín, esto se hace en el patio de césped y con juego.** Es la excepción deliberada del proyecto:
+a los 9–11 años la riqueza motriz es un objetivo en sí, no un relleno. En Infantil y Junior, no.
+
+| Estado de validación | |
+|---|---|
+| **La comba entra en P3** y P3 pasa a ser "potencia y resistencia de salto" | 🟡 **decisión mía. Confírmala o dale otro sitio** |
+| Escalera P3, escalones 1–10 y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
+| ¿El escalón 7 (resistencia a la potencia) va después del criterio oficial? | ❓ lo he puesto detrás porque es margen, no requisito. Confirma |
+
+---
 
 ## P5 · Extensión corporal y movilidad de hombro
 
-🔴 **Sin escribir.** Cierra: puente con brazos perpendiculares *(Alevín 1)*, pino–puente–remontada
-*(Alevín 2)*, puente con subida de pierna estirada *(Infantil)*. Premisa a validar: **un puente que no
-llega casi nunca es falta de fuerza, es flexión de hombro.**
+**Pruebas oficiales que cierra:** puente con brazos perpendiculares *(Alevín 1)* · pino–puente–remontada
+*(Alevín 2)* · puente con subida de pierna estirada *(Infantil)*.
+
+**La premisa de este patrón, y hay que verificarla en el primer test:** un puente que no llega casi
+nunca es falta de fuerza — **es flexión de hombro**. Si es cierto, insistir en fuerza de glúteo con
+quien tiene el hombro cerrado no mueve el número en todo el trimestre.
+
+### Test de tres caras, porque hay tres limitantes distintos
+
+Misma lógica que el test activo–pasivo de P4, pero aquí son tres cosas las que pueden fallar y hay que
+saber cuál antes de programar:
+
+| Cara | Cómo se mide | Si falla, se entrena… |
+|---|---|---|
+| **Flexión de hombro** | Tumbada boca arriba, lumbar pegada al suelo, brazos por encima de la cabeza. **¿Llegan los brazos al suelo sin despegar la lumbar?** Se anota cm de mano al suelo | Movilidad de hombro. Es el limitante más frecuente |
+| **Extensión torácica** | Sobre rodillo o bloque a la altura de la escápula: cuánta extensión aparece | Movilidad torácica |
+| **Fuerza de cadena posterior** | Puente de glúteo con los pies apoyados: elevación de cadera sostenida | Glúteo e isquios |
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+|---|---|---|---|---|
+| 1 | Movilidad de hombro en pared y con bloques + extensión torácica | **cm de mano al suelo = 0** en el test tumbada | **cm** | Compensa despegando la lumbar. Si la despega, el dato no vale |
+| 2 | Puente con las manos **elevadas** sobre un apoyo | **10 s** con codos estirados | **altura del apoyo en cm** ← *métrica principal de esta fase* | Codos doblados. Bajar el apoyo antes de que los estire es saltarse el escalón |
+| 3 | Bajar la altura del apoyo | 10 s a la altura siguiente | **cm** | — |
+| 4 | Puente completo desde el suelo | **10 s** con codos y rodillas estirados | s + distancia manos–pies en cm | Rodillas dobladas y cadera baja: se "sienta" en el puente |
+| 5 | **Criterio Alevín 1:** puente con brazos ≤15° de la vertical, codos y rodillas ≤10° | Cumplido | **grados** de brazo, codo y rodilla, foto lateral | — |
+| 6 | *(rama Infantil)* Puente + subida de pierna estirada | Mantiene el criterio de brazos con una pierna elevada | s + cm de altura del pie + asimetría entre piernas | Al subir la pierna se hunde el hombro |
+| 7 | *(rama Alevín 2)* **Pino → puente → remontada** | Ver la [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) ya aprobada | nivel de rúbrica + s de la bajada + nº de intentos | Bajada sin control. Cuanto **más lenta** la bajada, más control |
+
+**Foto siempre desde el mismo punto**, marcado en el suelo con cinta: si cambia el ángulo de cámara los
+grados no se comparan entre mediciones. Es la fuente de error más común y la más fácil de evitar.
+
+| Estado de validación | |
+|---|---|
+| La premisa "el puente falla por hombro, no por fuerza" | 🟡 **hipótesis mía. La confirma o la tumba el primer test** |
+| El test de tres caras | 🟡 mío. **Es la parte que más quiero que revises de P5** |
+| Escalera P5, escalones 1–7 y criterios numéricos | 🟡 **míos. Sin revisar por ti** |
+
+---
 
 ## P6 · Apertura de cadera y control invertido
 
-🔴 **Sin escribir.** Cierra: ariana y espagats, apertura sobre 180°, vertical de 3 apoyos con rotación
-*(Infantil)*, vertical con transición a grúa *(Alevín 2)*, pierna a 90° en tres direcciones. Es el
-patrón con más pruebas oficiales y el que más se solapa con lo que el club ya hace bien.
+El patrón más grande: **cinco pruebas oficiales**, y el que más se solapa con lo que el club ya hace
+bien —sus tablas de lanzamientos y aguantes con tobilleras lastradas—. Aquí se conserva su trabajo y se
+le añade criterio de registro, no se sustituye.
+
+**Dos escaleras**, por la misma razón que en P1: apertura de cadera y control invertido comparten
+pruebas pero no comparten progresión.
+
+**Pruebas que cierra:** ariana en suelo *(Alevín 1)* · apertura sobre 180° *(Infantil)* · pierna a 90°
+en tres direcciones *(Alevín 2: 8" · Infantil: 12")* · vertical de 3 apoyos con transición a grúa
+*(Alevín 2)* · vertical de 3 apoyos con bajada a espagat y rotación de ariana *(Infantil)*.
+
+### P6a · Apertura de cadera
+
+Se mide en centímetros desde el primer día: **esta rama ya es continua**, solo hay que dejar de anotar
+el apto.
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+|---|---|---|---|---|
+| 1 | Espagats con apoyo de manos o bloques | Control de la posición sin dolor, rodillas extendidas | **cm pubis–suelo**, los tres espagats | Rodilla flexionada para bajar más. Falsea el número |
+| 2 | Espagats sin apoyo | — | **cm** + **asimetría entre lados** | — |
+| 3 | **Criterio Alevín 1:** un espagat plano, el otro ≤10 cm, frontal ≤15 cm | Cumplido | cm de los tres | — |
+| 4 | Over-split con el pie sobre un apoyo | — | **cm de elevación** del pie | — |
+| 5 | **Criterio Infantil:** 20 cm por encima de 180° en **ambas** piernas | Cumplido | cm de elevación, cada pierna | — |
+| 6 | *(flexibilidad activa)* Lanzamientos con control, sin lastre | Llega a 90° sin perder el tronco | º alcanzados, por dirección | Se inclina el tronco para subir más la pierna |
+| 7 | Aguante a 90° **con mano apoyada**, en las tres direcciones | 5 s por dirección y pierna | **s por dirección** *(6 valores)* | — |
+| 8 | **Criterio Alevín 2:** 8" en las tres direcciones, ambas piernas | Cumplido | s + nivel de apoyo *(sin mano / apoyada / agarrada)* | — |
+| 9 | **Criterio Infantil:** 12" | Cumplido | ídem + **caída de altura** entre el primer y el último segundo | — |
+
+**La dirección "atrás" es siempre la peor y la que más informa**: exige extensión de cadera con control
+del tronco. Registra las tres por separado o pierdes el dato útil. Y **la asimetría entre lados es el
+número que casi nadie apunta y el que más avisa** — una diferencia grande y sostenida es factor de
+riesgo y techo técnico en un deporte que ejecuta a ambos lados.
+
+**Las tobilleras lastradas entran a partir del escalón 7**, no antes: primero el rango activo con el
+propio peso.
+
+### P6b · Control invertido
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+|---|---|---|---|---|
+| 1 | Apoyos invertidos contra la pared | **20 s** con alineación | s | Lumbar arqueada. Ojo: aquí P4 y P6 se cruzan — sin hollow no hay alineación |
+| 2 | Vertical de 3 apoyos con la pared | 10 s | s | — |
+| 3 | Vertical de 3 apoyos libre | Sostiene **5 s** con alineación válida | s | Piernas separadas o flexionadas |
+| 4 | Bajada controlada a espagat | Baja sin perder el equilibrio | s de la bajada | Se deja caer. La bajada lenta **es** el criterio |
+| 5 | **Criterio Infantil:** rotación de ariana con 3" por espagat + subida con piernas juntas y estiradas | Cumplido | [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) + cm por espagat + **diferencia de altura entre pies** | La cadera no rota de verdad: se ve en la diferencia de altura entre pies |
+| 6 | **Criterio Alevín 2:** bajada a grúa en ≥10" y subida en ≥10", **pierna vertical inmóvil** | Cumplido | rúbrica + s de cada fase + **nº de veces que se mueve la pierna vertical** | Ese movimiento es el criterio que se falla sin darse cuenta |
+
+**En Alevín e Infantil esto no es acrobacia**, y conviene decirlo así a las entrenadoras: es control
+invertido, que es exactamente la base que ellas piden **antes** de la acrobacia. En Junior sí entra
+trabajo de apoyos y acrobacia sobre colchoneta.
+
+| Estado de validación | |
+|---|---|
+| Separar P6 en apertura (P6a) y control invertido (P6b) | 🟡 mío, por la misma lógica que aceptaste en P1 |
+| Escaleras P6a y P6b y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
+| Tobilleras lastradas a partir del escalón 7 de P6a | 🟡 mío. **Aquí tu criterio manda más que el mío**: el club ya las usa y tú has visto sus tablas |
+| ¿El escalón 1 de P6b pertenece a P6 o a P4? | ❓ la alineación invertida es hollow. Puede que sea un escalón de P4 que se usa en P6 |

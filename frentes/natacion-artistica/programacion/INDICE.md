@@ -50,7 +50,7 @@ archivos: los archivos de grupo dicen **cuándo y cuánto**, los comunes dicen *
 | [`02-programacion/infantil.md`](02-programacion/infantil.md) | 🔴 | 12–14 años, 10 nadadoras, 2×45 min. El bloque más comprimido: 11 sesiones hasta octubre |
 | [`02-programacion/junior.md`](02-programacion/junior.md) | 🔴 | 15–17 años, 6 nadadoras, 1×75 min. Sin prueba: aquí se construye |
 | [`02-programacion/sesion-tipo.md`](02-programacion/sesion-tipo.md) | 🔴 | Minuto a minuto de la sesión de 45 y de 75, y el reparto martes/jueves |
-| [`02-programacion/progresiones-por-patron.md`](02-programacion/progresiones-por-patron.md) | 🟡 | P1–P6, de lo más fácil a lo más difícil, con el criterio técnico para avanzar. **P1 y P4 en borrador esperando validación de Daniel; P2, P3, P5 y P6 sin escribir** |
+| [`02-programacion/progresiones-por-patron.md`](02-programacion/progresiones-por-patron.md) | 🟡 | P1–P6, de lo más fácil a lo más difícil, con el criterio técnico para avanzar. **Los seis escritos; P1 y P4 validados, P2/P3/P5/P6 esperando revisión.** Ninguna prueba oficial queda sin progresión |
 | [`02-programacion/material-y-compras.md`](02-programacion/material-y-compras.md) | 🔴 | Inventario real y la justificación de la barra de dominadas |
 
 ## 3 · Test y monitoreo
