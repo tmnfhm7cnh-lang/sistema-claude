@@ -453,35 +453,79 @@ a los 9–11 años la riqueza motriz es un objetivo en sí, no un relleno. En In
 nunca es falta de fuerza — **es flexión de hombro**. Si es cierto, insistir en fuerza de glúteo con
 quien tiene el hombro cerrado no mueve el número en todo el trimestre.
 
-### Test de tres caras, porque hay tres limitantes distintos
+### Test de entrada: dos caras medidas y una deducida
 
-Misma lógica que el test activo–pasivo de P4, pero aquí son tres cosas las que pueden fallar y hay que
-saber cuál antes de programar:
+*(reformulado el 2026-08-07: la versión anterior pedía medir extensión torácica de una forma vaga y no
+estandarizada)*. Hay tres limitantes posibles, pero **solo dos se pueden medir de campo sin
+instrumentos**. El tercero se deduce.
 
 | Cara | Cómo se mide | Si falla, se entrena… |
 |---|---|---|
-| **Flexión de hombro** | Tumbada boca arriba, lumbar pegada al suelo, brazos por encima de la cabeza. **¿Llegan los brazos al suelo sin despegar la lumbar?** Se anota cm de mano al suelo | Movilidad de hombro. Es el limitante más frecuente |
-| **Extensión torácica** | Sobre rodillo o bloque a la altura de la escápula: cuánta extensión aparece | Movilidad torácica |
-| **Fuerza de cadena posterior** | Puente de glúteo con los pies apoyados: elevación de cadera sostenida | Glúteo e isquios |
+| **Flexión de hombro** | Tumbada boca arriba, **lumbar pegada al suelo**, brazos por encima de la cabeza. ¿Llegan las manos al suelo sin que la lumbar se despegue? Se anota **cm de mano al suelo** | Movilidad de hombro. Es el limitante más frecuente |
+| **Fuerza de cadena posterior** | Puente de glúteo con los pies apoyados: **s de elevación de cadera sostenida** | Glúteo e isquios |
+| **Extensión torácica** — *por descarte* | No se mide directamente. **Si pasa el test de hombro y el de cadena posterior pero el puente sigue corto, lo que queda es tórax** | Movilidad torácica |
 
-| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+**Por qué por descarte y no medida:** aislar extensión torácica de flexión de hombro exige inclinómetro y
+un protocolo cuidadoso. Con 22 nadadoras y 45 minutos de sesión, eso entra en el principio establecido en
+P3: **una métrica que exige un instrumento que no tienes no es una métrica**. Dos números medidos y el
+tercero deducido resuelve la misma decisión de entrenamiento sin material.
+
+### La escalera *(propuesta de Daniel, 2026-08-07)*
+
+Una escalera común a las tres categorías: **cada una corta en su escalón**, y de ahí arriba es margen.
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Nota |
 |---|---|---|---|---|
-| 1 | Movilidad de hombro en pared y con bloques + extensión torácica | **cm de mano al suelo = 0** en el test tumbada | **cm** | Compensa despegando la lumbar. Si la despega, el dato no vale |
-| 2 | Puente con las manos **elevadas** sobre un apoyo | **10 s** con codos estirados | **altura del apoyo en cm** ← *métrica principal de esta fase* | Codos doblados. Bajar el apoyo antes de que los estire es saltarse el escalón |
-| 3 | Bajar la altura del apoyo | 10 s a la altura siguiente | **cm** | — |
-| 4 | Puente completo desde el suelo | **10 s** con codos y rodillas estirados | s + distancia manos–pies en cm | Rodillas dobladas y cadera baja: se "sienta" en el puente |
-| 5 | **Criterio Alevín 1:** puente con brazos ≤15° de la vertical, codos y rodillas ≤10° | Cumplido | **grados** de brazo, codo y rodilla, foto lateral | — |
-| 6 | *(rama Infantil)* Puente + subida de pierna estirada | Mantiene el criterio de brazos con una pierna elevada | s + cm de altura del pie + asimetría entre piernas | Al subir la pierna se hunde el hombro |
-| 7 | *(rama Alevín 2)* **Pino → puente → remontada** | Ver la [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) ya aprobada | nivel de rúbrica + s de la bajada + nº de intentos | Bajada sin control. Cuanto **más lenta** la bajada, más control |
+| 1 | **Puente con apoyo de cabeza** | 10 s con la cadera alta | s | ⚠️ **Carga cervical.** Ver aviso abajo |
+| 2 | **Puente con las manos elevadas** sobre un apoyo | 10 s con codos estirados | **altura del apoyo en cm** ← *métrica de esta fase* | 🔶 **En discusión: ¿regresión o progresión?** Ver abajo |
+| 3 | **Puente completo desde el suelo**, con los ángulos oficiales: brazos ≤15° de la vertical, codos y rodillas ≤10° | Cumplido = **criterio Alevín 1** | **grados** de brazo, codo y rodilla *(foto lateral)* + distancia manos–pies | Un puente completo **sin** los ángulos no es apto: el criterio son los grados, no la posición |
+| 4 | **Caminar en puente**, adelante y atrás | Ida y vuelta con control | pasos + si mantiene los ángulos | — |
+| 5 | **Elevar una pierna en puente** | Mantiene los ángulos de brazo con la pierna arriba | s + cm de altura del pie + **asimetría entre piernas** | = **criterio Infantil** *(puente + subida de pierna estirada)* |
+| 6 | **Saltar en puente** | 5 saltos manteniendo la posición | reps | ⚠️ **Carga alta en hombro y lumbar.** Ver aviso abajo |
+| 7 | **Levantarse desde el puente hacia delante** | Sin ayuda | nº de intentos | — |
+| 8 | **Remontada desde abajo** *(lanzando una pierna y luego la otra)* | Sin ayuda = fase final del criterio de Alevín 2 | [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) | — |
+| 9 | **Arco adelante** | Con control | nº de intentos | Por encima de todo criterio oficial: margen |
+| 10 | **Pino → puente → aguante abajo → remontada** | Cumplido = **criterio Alevín 2** completo | rúbrica + **s de la bajada** + nº de intentos | Cuanto **más lenta** la bajada, más control. La bajada rápida es caída, no descenso |
+
+**Dónde corta cada categoría:** Alevín 1 en el **3**. Infantil en el **5**. Alevín 2 en el **10**. Los
+escalones 4, 6, 7 y 9 no son criterio de nadie — son margen y variedad, y se meten cuando sobra tiempo.
+
+### 🔶 El escalón 2: manos elevadas, ¿más fácil o más difícil?
+
+**Daniel cree que es más difícil** que el puente normal, porque exige más extensión de columna.
+**Yo creo lo contrario**, y esta es la razón: al subir las manos, el apoyo se acerca en altura a la
+cadera, el arco entre mano y cadera se abre menos y hace falta **menos** extensión torácica y menos
+flexión de hombro. Es la regresión estándar del puente en gimnasia. Lo que sí es progresión es **elevar
+los pies**, que desplaza el peso a los hombros.
+
+**Pendiente de una prueba de treinta segundos:** puente con las manos en un step de 30 cm, y luego con
+los pies en el mismo step. Lo que salga manda, y se anota aquí.
+
+Si gana la lectura de Daniel, el escalón 2 sale de ahí y se coloca por encima del 3. Si gana la mía, se
+queda donde está **y además hay un motivo para preferirlo al escalón 1**: es una regresión del puente que
+no carga el cuello.
+
+### ⚠️ Dos avisos de seguridad
+
+**El puente con apoyo de cabeza (escalón 1) carga la columna cervical.** Sobre colchoneta, sin buscar el
+máximo, con supervisión directa y **nunca en quien refiera molestias de cuello**. Con Alevín, si existe
+alternativa sin apoyo de cabeza —y el escalón 2 puede serlo—, es preferible.
+
+**Saltar en puente (escalón 6) es carga alta en hombro y lumbar.** No entra en Alevín 1 ni en Infantil:
+no es criterio de ninguna de las dos y el perfil lesivo del deporte es hombro, rodilla y lumbar por
+sobreuso. Reservado a quien tenga el escalón 3 sólido y con volumen bajo.
 
 **Foto siempre desde el mismo punto**, marcado en el suelo con cinta: si cambia el ángulo de cámara los
 grados no se comparan entre mediciones. Es la fuente de error más común y la más fácil de evitar.
 
 | Estado de validación | |
 |---|---|
-| La premisa "el puente falla por hombro, no por fuerza" | 🟡 **hipótesis mía. La confirma o la tumba el primer test** |
-| El test de tres caras | 🟡 mío. **Es la parte que más quiero que revises de P5** |
-| Escalera P5, escalones 1–7 y criterios numéricos | 🟡 **míos. Sin revisar por ti** |
+| Escalera P5, escalones 1–10 | ✅ **es tu propuesta** (2026-08-07) |
+| El test de tres caras pasa a dos medidas y una deducida | ✅ **corregido a raíz de tu pega**. La torácica ya no se finge medible |
+| Escalón 2: ¿manos elevadas es regresión o progresión? | 🔶 **discrepancia abierta.** Se resuelve probándolo |
+| El escalón 3 incluye los ángulos oficiales, no solo el puente completo | 🟡 mío. Sin los grados no hay apto |
+| La premisa "el puente falla por hombro, no por fuerza" | 🟡 hipótesis mía. La confirma o la tumba el primer test |
+| Criterios numéricos *(10 s, 5 saltos, ida y vuelta…)* | 🟡 míos, provisionales hasta la línea base |
 
 ---
 
