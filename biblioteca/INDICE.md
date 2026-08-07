@@ -63,7 +63,15 @@ un test de salto vale para natación artística, calistenia y entrenamiento pers
   [metricas-continuas-bateria-seco](metodos/metricas-continuas-bateria-seco.md) — convierte cada criterio
   de apto/no apto en métricas continuas (cm, grados, segundos, repeticiones, nivel de asistencia), con
   protocolo de medición, rúbricas de habilidad, esquema del `.csv` de registro y cadencia. Incluye qué NO
-  se mide y por qué (composición corporal, por riesgo de RED-S). **Pendiente de revisión de Daniel.**
+  se mide y por qué (composición corporal, por riesgo de RED-S). **Revisado con Daniel el 2026-08-06 y
+  07:** fuera la goma como asistencia de dominada y fuera el índice de fatiga del squat jump, por
+  inmedible con el instrumento disponible.
+- **medición / todos los frentes** ·
+  [calentamiento-estandarizado-test](metodos/calentamiento-estandarizado-test.md) — los 8 minutos
+  fijados al segundo que hacen que un test sea comparable con el siguiente, con cifras exactas en vez de
+  descripciones. Dos reglas: ningún ejercicio del test aparece en el calentamiento, y las desviaciones se
+  anotan. Incluye comprobación previa de 60 s y qué se anota del día *(temperatura, duración real, quién
+  midió)*. **Sirve igual para calistenia y entrenamiento personal.**
 
 ## Material propio (`propio/`)
 

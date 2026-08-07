@@ -137,8 +137,8 @@ incómoda a mitad de temporada.
 
 | # | Falta | Quién |
 |---|---|---|
-| 1 | **El calentamiento estandarizado, escrito.** Sin él los números no son comparables entre mediciones — es la regla 1 del protocolo y todavía no existe en ningún archivo | Daniel y yo. **Es el siguiente paso** |
-| 2 | **Las hojas de campo**, una por grupo, para imprimir | Yo, cuando el calentamiento esté cerrado |
+| 1 | ~~El calentamiento estandarizado~~ | ✅ **hecho el 2026-08-07**: [`calentamiento-estandarizado-test`](../../../../biblioteca/metodos/calentamiento-estandarizado-test.md). Pendiente de que Daniel lo revise |
+| 2 | **Las hojas de campo**, una por grupo, para imprimir | Yo. **Es el siguiente paso** |
 | 3 | **La barra de dominadas** | Club |
 | 4 | Confirmar que *My Jump Lab* da lo que se necesita **antes** del día 10, no ese día | Daniel |
 | 5 | Los códigos `ATL-01`… asignados, y el mapa en papel | Daniel — ver [`privado/LEEME.md`](../../privado/LEEME.md) |
