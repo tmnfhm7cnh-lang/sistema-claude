@@ -62,7 +62,7 @@ reutilizables. Aquí solo vive **qué se aplica en este club, cuándo, y qué se
 |---|---|---|
 | [`bateria-test-seco-federacion-madrid.md`](../../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md) | ✅ | Las pruebas oficiales y sus criterios de apto. ⚠ La versión que tenemos es **de una temporada anterior** |
 | [`metricas-continuas-bateria-seco.md`](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) | ✅ | Cada criterio binario convertido en número medible (cm, grados, segundos, repeticiones) |
-| [`03-test-y-monitoreo/plan-de-medicion.md`](03-test-y-monitoreo/plan-de-medicion.md) | 🔴 | Qué se pasa en qué sesión, quién lo apunta y cuánto tiempo de sesión cuesta |
+| [`03-test-y-monitoreo/plan-de-medicion.md`](03-test-y-monitoreo/plan-de-medicion.md) | 🟡 | Qué se pasa en qué sesión, quién lo apunta y cuánto cuesta. **Escrito el 2026-08-07, sin revisar.** Bloqueado para estar listo el 10-sep por el calentamiento estandarizado, que no existe |
 | [`03-test-y-monitoreo/registro-y-analisis.md`](03-test-y-monitoreo/registro-y-analisis.md) | 🔴 | Estructura del `.csv` por atleta en `privado/`, y **qué decisión dispara cada dato**. Un dato que no cambia nada no se recoge |
 | [`03-test-y-monitoreo/informe-al-club.md`](03-test-y-monitoreo/informe-al-club.md) | 🔴 | Formato y frecuencia de lo que se le devuelve a las entrenadoras |
 | [`03-test-y-monitoreo/salud-y-derivacion.md`](03-test-y-monitoreo/salud-y-derivacion.md) | 🔴 | RED-S, molestias por carga, qué le corresponde a Daniel y qué no, y qué **no** se escribe |
