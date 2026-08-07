@@ -289,23 +289,80 @@ se supera y se abandona, es la posición que se mantiene mientras se le añade m
 | # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
 |---|---|---|---|---|
 | 1 | Plancha alta con rodillas apoyadas | **20 s** con alineación hombro–cadera | s | Cadera alta o lumbar hundida |
-| 2 | **Plancha alta completa** *(la posición del criterio oficial)* | **20 s** = criterio oficial ya cumplido | s | Aguanta más bajando la cadera. Se para el reloj en la primera pérdida visible |
-| 3 | Flexión en plano elevado, codos pegados | **8 reps** manteniendo la plancha entre repeticiones | reps + **altura del plano en cm** | Abre los codos en cuanto cuesta |
-| 4 | Bajar la altura del plano | 8 reps a la altura siguiente | **cm del plano** ← *métrica principal de esta fase* | — |
-| 5 | Negativa en el suelo | **3 bajadas de 5 s** con control hasta abajo | **s de bajada** | Se cae de golpe en el último tercio |
-| 6 | Flexión completa en el suelo | **1 rep** con extensión completa y codos pegados | reps | Sube la cadera primero, en dos tiempos |
-| 7 | **Criterio Alevín 1:** 20" de plancha + 5 flexiones, máx. 1 incompleta | Cumplido | s + reps válidas de 5 | Las 5 salen, pero abriendo codos. Anota **cuáles** falla, no cuántas |
-| 8 | *(rama Alevín 2)* Flexión **bajo fatiga**, dentro del burpee | **8 burpees** con las 8 flexiones válidas | reps + **fallos por fase** | La flexión se degrada en las 4 últimas. Ese es el dato: no es metabólico, es empuje bajo fatiga |
+| 2 | **Plancha alta completa** *(la posición del criterio oficial)* | **20 s** = criterio oficial de la plancha ya cumplido | s | Aguanta más bajando la cadera. Se para el reloj en la primera pérdida visible |
+| 3 | **El ciclo compuesto** *(propuesta de Daniel, 2026-08-07)* — ver el detalle debajo de la tabla | **5 ciclos** completos sin perder la alineación en ninguna fase | ciclos + **s de la negativa** | Salta la plancha intermedia y enlaza subida con bajada. La plancha de 3–5 s es el escalón, no un descanso |
+| 4 | Plancha de 20 s **en plano inclinado** + flexiones **en ese mismo plano** | **5 flexiones** con codos pegados | reps + **altura del plano en cm** | Hace la plancha en el suelo y las flexiones en el plano. Van en el mismo plano |
+| 5 | Bajar el plano, **o pasar al suelo** — según la nadadora | 5 flexiones a la altura nueva | **cm del plano** ← *métrica principal de esta fase* | — |
+| 6 | **Criterio Alevín 1:** 20" de plancha + 5 flexiones de tríceps, máx. 1 incompleta | Cumplido | s + reps válidas de 5 | Las 5 salen, pero abriendo codos. Anota **cuáles** falla, no cuántas |
+| 7 | *(rama Alevín 2)* **El burpee** — ver la sub-escalera debajo | 8 burpees completos | reps + **fallos por fase** | La flexión se degrada en las 4 últimas: no es metabólico, es empuje bajo fatiga |
 
-**Métrica para quien no hace ni una flexión válida:** la **altura del plano en cm**, nunca "0
-flexiones". Pasar de 40 a 25 cm en dos meses es progreso visible; un cero repetido durante dos meses es
-abandono.
+### El escalón 3: el ciclo compuesto
+
+*(propuesta de Daniel, 2026-08-07)* Un solo ejercicio cíclico, no cuatro ejercicios:
+
+1. **Concéntrica de flexión con rodillas apoyadas** — sube.
+2. **Extiende las rodillas** arriba y sostiene **plancha completa 3–5 s**.
+3. **Negativa de flexión completa** en **5 s**, con piernas extendidas.
+4. Abajo, **vuelve a flexionar rodillas** y repite el ciclo.
+
+**Por qué funciona:** la excéntrica soporta más carga que la concéntrica, así que las rodillas apoyadas
+permiten subir mientras la bajada se hace ya con el cuerpo entero. Se entrena el recorrido completo
+antes de tener fuerza para la flexión completa, sin necesidad de gomas ni de asistencia de nadie.
+
+**Y resuelve una duda abierta:** la negativa desaparece como escalón propio y queda **integrada como
+método dentro del escalón 3**, exactamente como decidiste en P1b. Consistente: la negativa es escalón
+solo cuando tiene criterio de salto propio.
+
+### El escalón 7: sub-escalera del burpee
+
+*(propuesta de Daniel, 2026-08-07)* El burpee es compuesto y puede fallar en cualquier fase, así que no
+se ataca de golpe:
+
+| # | Paso | Se sube cuando… ⚠ |
+|---|---|---|
+| 7a | **Por separado:** flexiones primero, y luego burpees **sin flexión** con foco en el salto | 8 burpees sin flexión con salto ≥20 cm |
+| 7b | **Burpee completo muy despacio**, priorizando técnica sobre ritmo | 8 completos con las 8 fases válidas, sin reloj |
+| 7c | **Progresar la velocidad** manteniendo la técnica | Baja el tiempo total sin que aparezcan fallos de fase |
+| 7d | **Criterio Alevín 2:** 8 burpees completos, máx. 1 incompleta, salto >20 cm, lumbar rígida | Cumplido |
+
+**El registro que hace esto útil son los fallos por fase, no el total.** "8 de 12" no dice nada; "falla
+la flexión en las 4 últimas" dice que el limitante es empuje bajo fatiga y no capacidad metabólica.
+
+### ⚠️ Corrección: P2 no tiene ninguna prueba oficial en Infantil
+
+Planteaste esta sub-escalera para Infantil. **El burpee es prueba de Alevín 2**, y revisando la batería
+completa: de las 17 pruebas, **ninguna de las de Infantil es de empuje**. Sus siete son las 5
+elevaciones a la perpendicular, la vertical de 3 apoyos con rotación, la apertura sobre 180°, la pierna
+a 90° en tres direcciones (12"), el puente con subida de pierna, las 20 Vs y el minuto de comba. Ni
+plancha, ni flexiones, ni burpee.
+
+Eso **confirma** el reparto que ya estaba en la tabla de
+[patrones entrenables](../01-marco/patrones-entrenables.md): en Infantil, P2 es *"se mantiene sin ser
+foco"*. Con 11 sesiones, dedicarle bloque principal sería quitárselo a P1, P4 y P6, que son sus tres
+pruebas reales.
+
+Tu sub-escalera queda aplicada donde sí hay prueba: **Alevín 2**, escalón 7. ¿Te referías a Alevín 2, o
+querías P2 en Infantil por alguna razón que no está en la batería —demandas del sculling, equilibrio de
+hombro— que convenga escribir aparte?
+
+### Regla general que sale de tu comentario: nadie empieza por el escalón 1
+
+Preguntaste si podrían empezar desde el 3 o el 4. **Sí, y esto vale para las seis escaleras:** el
+escalón de entrada no es el 1, es **el que diga el test de entrada de cada nadadora**. La escalera es un
+mapa de dónde está cada una, no un temario que se recorre entero desde el principio.
+
+Consecuencia práctica: en un grupo de doce, habrá tres o cuatro escalones distintos trabajando a la vez
+en la misma estación. Eso es el problema que resuelve `04-didactica/estaciones-y-parejas.md`, no la
+programación.
 
 | Estado de validación | |
 |---|---|
-| La plancha como posición que se mantiene, no escalón que se abandona | 🟡 mío, aplicando tu criterio de P4 |
-| Escalera P2, escalones 1–8 y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
-| ¿El escalón 5 (negativa) va antes o después del 4? | ❓ en P1b decidiste que negativa e isométrico son escalón **y** método. Aquí lo he puesto como escalón. Confirma |
+| La plancha como posición que se mantiene, no escalón que se abandona | ✅ **validado** (2026-08-07) |
+| El ciclo compuesto como escalón 3, y la negativa fuera como escalón | ✅ **es tu propuesta** |
+| Escalones 4 y 5: plancha y flexiones en el mismo plano inclinado | ✅ **tuyos** |
+| Sub-escalera del burpee 7a–7d | ✅ **tuya**, reasignada de Infantil a Alevín 2 |
+| Criterios numéricos *(5 ciclos, 5 flexiones, 20 s…)* | 🟡 míos, provisionales hasta la línea base |
+| ¿Querías P2 en Infantil por algo que no está en la batería? | ❓ **pendiente de tu respuesta** |
 
 ---
 
