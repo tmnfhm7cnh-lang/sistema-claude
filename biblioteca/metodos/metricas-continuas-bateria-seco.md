@@ -55,6 +55,14 @@ máximo 2 repeticiones sin llegar.
 **Qué te dice:** si falla por fuerza de core (no llega), por movilidad de cadera y columna (no puede
 llevar los pies atrás) o por control (se separan las piernas). Son tres entrenamientos distintos.
 
+> ✅ **Cómo se separa fuerza de movilidad** *(añadido el 2026-08-07)*. Se mide el mismo rango dos veces:
+> **activa** (ella genera la elevación) y **pasiva** (posición de arado, la gravedad le lleva las piernas
+> hacia el suelo detrás de la cabeza). Pasivo llega y activo no → **fuerza**. Pasivo no llega → **movilidad**.
+> Protocolo, justificación y **reglas de seguridad cervical** en
+> [`progresiones-por-patron.md`](../../frentes/natacion-artistica/programacion/02-programacion/progresiones-por-patron.md),
+> patrón P4. El arado carga el cuello: sobre colchoneta, con supervisión, y nunca en quien refiera
+> molestias cervicales.
+
 ### 2. Plancha y flexiones
 
 **Criterio oficial:** plancha con alineación oreja–tobillo, muñecas bajo hombros, codos estirados,
