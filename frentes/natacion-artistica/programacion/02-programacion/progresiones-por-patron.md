@@ -3,9 +3,13 @@
 **Creado:** 2026-08-06 · Parte de [Programación AQUAMAD 26-27](../INDICE.md)
 **Patrones:** [P1–P6](../01-marco/patrones-entrenables.md) · **Criterios oficiales:** [batería](../../../biblioteca/metodos/bateria-test-seco-federacion-madrid.md) · **Cómo se mide:** [métricas continuas](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md)
 
-> **ESTADO.** ✅ **P1 validado el 2026-08-06. P4 validado el 2026-08-07** — la escalera de P4 es
-> propuesta de Daniel, no mía. **P2, P3, P5 y P6 escritos en borrador el 2026-08-07, esperando
-> revisión**: los seis patrones ya tienen escalera, ninguna prueba oficial queda sin progresión.
+> **ESTADO.** ✅ **Los seis patrones revisados y validados** — P1 el 2026-08-06; P2, P3, P4, P5 y P6 el
+> 2026-08-07. Ninguna prueba oficial de la batería queda sin progresión.
+>
+> Las escaleras de **P2, P4, P5 y P6b son propuestas de Daniel**, no mías. Lo que queda marcado 🟡 es
+> mío y sigue siendo revisable: sobre todo los **criterios numéricos de salto**, que son cifras
+> razonables y no validadas, y que **la línea base de septiembre reescribe mejor que cualquier
+> conversación**.
 >
 > Las escaleras que propongo yo salen de los criterios oficiales y de progresiones estándar de
 > calistenia; **no son criterio de entrenador hasta que él las revisa escalón por escalón**. Lo
@@ -476,9 +480,10 @@ Una escalera común a las tres categorías: **cada una corta en su escalón**, y
 
 | # | Escalón | Se sube cuando… ⚠ | Se apunta | Nota |
 |---|---|---|---|---|
-| 1 | **Puente con apoyo de cabeza** | 10 s con la cadera alta | s | ⚠️ **Carga cervical.** Ver aviso abajo |
-| 2 | **Puente con las manos elevadas** sobre un apoyo | 10 s con codos estirados | **altura del apoyo en cm** ← *métrica de esta fase* | 🔶 **En discusión: ¿regresión o progresión?** Ver abajo |
-| 3 | **Puente completo desde el suelo**, con los ángulos oficiales: brazos ≤15° de la vertical, codos y rodillas ≤10° | Cumplido = **criterio Alevín 1** | **grados** de brazo, codo y rodilla *(foto lateral)* + distancia manos–pies | Un puente completo **sin** los ángulos no es apto: el criterio son los grados, no la posición |
+| 1 | **Puente con los pies elevados** sobre un apoyo | 10 s con codos estirados | **altura del apoyo en cm** ← *métrica de esta fase* | La regresión de referencia: menos rango necesario, más peso en brazos. **Sin carga cervical** |
+| 1b | *(alternativa)* **Puente con apoyo de cabeza** | 10 s con la cadera alta | s | ⚠️ **Carga cervical.** Usar el escalón 1 cuando se pueda. Ver aviso abajo |
+| 2 | **Puente completo desde el suelo**, con los ángulos oficiales: brazos ≤15° de la vertical, codos y rodillas ≤10° | Cumplido = **criterio Alevín 1** | **grados** de brazo, codo y rodilla *(foto lateral)* + distancia manos–pies | Un puente completo **sin** los ángulos no es apto: el criterio son los grados, no la posición |
+| 3 | **Puente con las manos elevadas** sobre un apoyo | 10 s con codos estirados | **altura del apoyo en cm** | Progresión, no regresión: exige más rango que el puente completo. Ver abajo |
 | 4 | **Caminar en puente**, adelante y atrás | Ida y vuelta con control | pasos + si mantiene los ángulos | — |
 | 5 | **Elevar una pierna en puente** | Mantiene los ángulos de brazo con la pierna arriba | s + cm de altura del pie + **asimetría entre piernas** | = **criterio Infantil** *(puente + subida de pierna estirada)* |
 | 6 | **Saltar en puente** | 5 saltos manteniendo la posición | reps | ⚠️ **Carga alta en hombro y lumbar.** Ver aviso abajo |
@@ -487,29 +492,38 @@ Una escalera común a las tres categorías: **cada una corta en su escalón**, y
 | 9 | **Arco adelante** | Con control | nº de intentos | Por encima de todo criterio oficial: margen |
 | 10 | **Pino → puente → aguante abajo → remontada** | Cumplido = **criterio Alevín 2** completo | rúbrica + **s de la bajada** + nº de intentos | Cuanto **más lenta** la bajada, más control. La bajada rápida es caída, no descenso |
 
-**Dónde corta cada categoría:** Alevín 1 en el **3**. Infantil en el **5**. Alevín 2 en el **10**. Los
-escalones 4, 6, 7 y 9 no son criterio de nadie — son margen y variedad, y se meten cuando sobra tiempo.
+**Dónde corta cada categoría:** Alevín 1 en el **2**. Infantil en el **5**. Alevín 2 en el **10**. Los
+escalones 3, 4, 6, 7 y 9 no son criterio de nadie — son margen y variedad, y se meten cuando sobra
+tiempo.
 
-### 🔶 El escalón 2: manos elevadas, ¿más fácil o más difícil?
+### ✅ Resuelto: manos elevadas es progresión, no regresión
 
-**Daniel cree que es más difícil** que el puente normal, porque exige más extensión de columna.
-**Yo creo lo contrario**, y esta es la razón: al subir las manos, el apoyo se acerca en altura a la
-cadera, el arco entre mano y cadera se abre menos y hace falta **menos** extensión torácica y menos
-flexión de hombro. Es la regresión estándar del puente en gimnasia. Lo que sí es progresión es **elevar
-los pies**, que desplaza el peso a los hombros.
+**Yo me equivoqué y Daniel lo comprobó en su propio cuerpo el 2026-08-07.** Con las manos elevadas no
+pudo colocarse en puente por falta de rango, y su orden de limitantes fue **espalda, tórax, hombro**.
+Con los pies elevados se colocó sin problema —más peso en brazos, sí— y la remontada se volvió sencilla.
 
-**Pendiente de una prueba de treinta segundos:** puente con las manos en un step de 30 cm, y luego con
-los pies en el mismo step. Lo que salga manda, y se anota aquí.
+**Mi error de razonamiento**, por si vuelve a aparecer: supuse que subir las manos acerca el apoyo a la
+altura de la cadera y reduce el arco. Es al contrario: **al subir las manos, el tronco tiene que
+arquearse más hacia atrás para alcanzar ese apoyo**, así que el rango necesario aumenta. Y con los pies
+elevados la cadera queda más alta, el tronco más vertical y el arco es menor: de ahí que colocarse sea
+fácil y que la remontada salga casi sola, porque el centro de masas ya está más cerca de pasar por
+encima de las manos.
 
-Si gana la lectura de Daniel, el escalón 2 sale de ahí y se coloca por encima del 3. Si gana la mía, se
-queda donde está **y además hay un motivo para preferirlo al escalón 1**: es una regresión del puente que
-no carga el cuello.
+**Dos consecuencias:**
+
+1. **Manos elevadas pasa a ser progresión** y se coloca por encima del criterio oficial, en el
+   escalón 3. Es además un buen **test de los tres limitantes** del arco: quien no puede colocarse ahí
+   sabe qué le falta y en qué orden.
+2. **La regresión de referencia es pies elevados**, y eso resuelve el problema de seguridad que tenía la
+   escalera: es una regresión del puente **sin carga cervical**, así que el apoyo de cabeza deja de ser
+   la única puerta de entrada.
 
 ### ⚠️ Dos avisos de seguridad
 
-**El puente con apoyo de cabeza (escalón 1) carga la columna cervical.** Sobre colchoneta, sin buscar el
-máximo, con supervisión directa y **nunca en quien refiera molestias de cuello**. Con Alevín, si existe
-alternativa sin apoyo de cabeza —y el escalón 2 puede serlo—, es preferible.
+**El puente con apoyo de cabeza (escalón 1b) carga la columna cervical.** Sobre colchoneta, sin buscar el
+máximo, con supervisión directa y **nunca en quien refiera molestias de cuello**. Con la corrección de
+arriba, en Alevín se entra por el escalón 1 (pies elevados) y el apoyo de cabeza queda como alternativa,
+no como paso obligado.
 
 **Saltar en puente (escalón 6) es carga alta en hombro y lumbar.** No entra en Alevín 1 ni en Infantil:
 no es criterio de ninguna de las dos y el perfil lesivo del deporte es hombro, rodilla y lumbar por
@@ -522,8 +536,8 @@ grados no se comparan entre mediciones. Es la fuente de error más común y la m
 |---|---|
 | Escalera P5, escalones 1–10 | ✅ **es tu propuesta** (2026-08-07) |
 | El test de tres caras pasa a dos medidas y una deducida | ✅ **corregido a raíz de tu pega**. La torácica ya no se finge medible |
-| Escalón 2: ¿manos elevadas es regresión o progresión? | 🔶 **discrepancia abierta.** Se resuelve probándolo |
-| El escalón 3 incluye los ángulos oficiales, no solo el puente completo | 🟡 mío. Sin los grados no hay apto |
+| ¿Manos elevadas es regresión o progresión? | ✅ **progresión.** Comprobado por Daniel en su cuerpo el 2026-08-07; **mi razonamiento geométrico era erróneo**. Pies elevados es la regresión |
+| El escalón 2 incluye los ángulos oficiales, no solo el puente completo | 🟡 mío. Sin los grados no hay apto |
 | La premisa "el puente falla por hombro, no por fuerza" | 🟡 hipótesis mía. La confirma o la tumba el primer test |
 | Criterios numéricos *(10 s, 5 saltos, ida y vuelta…)* | 🟡 míos, provisionales hasta la línea base |
 
@@ -547,36 +561,85 @@ en tres direcciones *(Alevín 2: 8" · Infantil: 12")* · vertical de 3 apoyos c
 Se mide en centímetros desde el primer día: **esta rama ya es continua**, solo hay que dejar de anotar
 el apto.
 
-| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+**Reordenada el 2026-08-07 a petición de Daniel, y el argumento es correcto:** la versión anterior ponía
+los cuatro escalones pasivos primero y el trabajo activo después, así que pedía **over-split antes de
+cualquier fuerza activa**. Eso es rango que no se controla, y en un deporte con perfil lesivo de cadera
+y lumbar es exactamente cómo se construye una descompensación.
+
+> **El candado de nivel, que es la regla que resuelve esto.** Los escalones alternan pasivo y activo por
+> nivel de dificultad, y **ningún escalón pasivo avanza si el activo de su mismo nivel no está
+> cubierto**. No es una secuencia estricta —el rango pasivo y el activo se entrenan en paralelo, como
+> hace ya el club con sus tablas—, es un **techo**: el rango pasivo no se persigue por delante del
+> control activo del mismo rango.
+
+| # | Nivel | Escalón | Se sube cuando… ⚠ | Se apunta |
 |---|---|---|---|---|
-| 1 | Espagats con apoyo de manos o bloques | Control de la posición sin dolor, rodillas extendidas | **cm pubis–suelo**, los tres espagats | Rodilla flexionada para bajar más. Falsea el número |
-| 2 | Espagats sin apoyo | — | **cm** + **asimetría entre lados** | — |
-| 3 | **Criterio Alevín 1:** un espagat plano, el otro ≤10 cm, frontal ≤15 cm | Cumplido | cm de los tres | — |
-| 4 | Over-split con el pie sobre un apoyo | — | **cm de elevación** del pie | — |
-| 5 | **Criterio Infantil:** 20 cm por encima de 180° en **ambas** piernas | Cumplido | cm de elevación, cada pierna | — |
-| 6 | *(flexibilidad activa)* Lanzamientos con control, sin lastre | Llega a 90° sin perder el tronco | º alcanzados, por dirección | Se inclina el tronco para subir más la pierna |
-| 7 | Aguante a 90° **con mano apoyada**, en las tres direcciones | 5 s por dirección y pierna | **s por dirección** *(6 valores)* | — |
-| 8 | **Criterio Alevín 2:** 8" en las tres direcciones, ambas piernas | Cumplido | s + nivel de apoyo *(sin mano / apoyada / agarrada)* | — |
-| 9 | **Criterio Infantil:** 12" | Cumplido | ídem + **caída de altura** entre el primer y el último segundo | — |
+| 1 | básico · **pasivo** | Espagats con apoyo de manos o bloques | Control de la posición sin dolor, rodillas extendidas | **cm pubis–suelo**, los tres espagats |
+| 2 | básico · **activo** | Lanzamientos con control, sin lastre | Llega a 90° sin perder el tronco | º alcanzados, por dirección |
+| 3 | medio · **pasivo** | Espagats sin apoyo | — | cm + **asimetría entre lados** |
+| 4 | medio · **activo** | Aguante a 90° **con mano apoyada**, tres direcciones | 5 s por dirección y pierna | **s por dirección** *(6 valores)* |
+| 5 | criterio · **pasivo** | **Criterio Alevín 1:** un espagat plano, el otro ≤10 cm, frontal ≤15 cm | Cumplido | cm de los tres |
+| 6 | criterio · **activo** | **Criterio Alevín 2:** 8" en las tres direcciones, ambas piernas | Cumplido | s + nivel de apoyo *(sin mano / apoyada / agarrada)* |
+| 7 | criterio · **activo** | **Criterio Infantil:** 12" en las tres direcciones | Cumplido | ídem + **caída de altura** del primer al último segundo |
+| 8 | avanzado · **pasivo** | Over-split con el pie sobre un apoyo | Solo si el escalón 6 está cubierto | **cm de elevación** del pie |
+| 9 | avanzado · **criterio** | **Criterio Infantil:** 20 cm por encima de 180° en **ambas** piernas | Cumplido | cm de elevación, cada pierna |
+| 10 | avanzado · **activo** | Aguante activo cerca del rango de over-split | 5 s sin apoyo en el rango nuevo | s + º | 
+
+**El escalón 8 tiene candado explícito:** no se busca over-split sin tener cubierto el escalón 6, el
+aguante activo de 8". Y el 10 es la contrapartida activa del 9 — cierra el círculo para que el rango
+ganado sea rango controlado.
 
 **La dirección "atrás" es siempre la peor y la que más informa**: exige extensión de cadera con control
 del tronco. Registra las tres por separado o pierdes el dato útil. Y **la asimetría entre lados es el
 número que casi nadie apunta y el que más avisa** — una diferencia grande y sostenida es factor de
 riesgo y techo técnico en un deporte que ejecuta a ambos lados.
 
-**Las tobilleras lastradas entran a partir del escalón 7**, no antes: primero el rango activo con el
+**Las tobilleras lastradas entran a partir del escalón 4**, no antes: primero el rango activo con el
 propio peso.
 
 ### P6b · Control invertido
 
-| # | Escalón | Se sube cuando… ⚠ | Se apunta | Fallo típico a vigilar |
+*(escalera propuesta por Daniel el 2026-08-07, mucho más extensa que mi versión de tres escalones)*
+
+> 🔒 **La salida segura es un candado, no un escalón.** Saber caerse del pino —dejarse ir hacia un lado
+> girando sobre una mano— **es requisito de acceso a todo lo que sea invertido y libre**, no un peldaño
+> que se alcanza. Nadie intenta una vertical sin pared si no sabe salir de ella. Por eso está en el
+> escalón 2, antes de cualquier posición libre, y **se repasa cada vez que se retoma el bloque**.
+
+| # | Escalón | Se sube cuando… ⚠ | Se apunta | Nota |
 |---|---|---|---|---|
-| 1 | Apoyos invertidos contra la pared | **20 s** con alineación | s | Lumbar arqueada. Ojo: aquí P4 y P6 se cruzan — sin hollow no hay alineación |
-| 2 | Vertical de 3 apoyos con la pared | 10 s | s | — |
-| 3 | Vertical de 3 apoyos libre | Sostiene **5 s** con alineación válida | s | Piernas separadas o flexionadas |
-| 4 | Bajada controlada a espagat | Baja sin perder el equilibrio | s de la bajada | Se deja caer. La bajada lenta **es** el criterio |
-| 5 | **Criterio Infantil:** rotación de ariana con 3" por espagat + subida con piernas juntas y estiradas | Cumplido | [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) + cm por espagat + **diferencia de altura entre pies** | La cadera no rota de verdad: se ve en la diferencia de altura entre pies |
-| 6 | **Criterio Alevín 2:** bajada a grúa en ≥10" y subida en ≥10", **pierna vertical inmóvil** | Cumplido | rúbrica + s de cada fase + **nº de veces que se mueve la pierna vertical** | Ese movimiento es el criterio que se falla sin darse cuenta |
+| 1 | **Escalar la pared con los pies** hasta invertida y **descender hasta plancha** | Sube y baja con control, sin dejarse caer | nº de subidas + altura alcanzada | Aquí se cruzan P4 y P6: sin hollow no hay alineación invertida |
+| 2 | 🔒 **Salida segura:** desde la pared, dejarse ir hacia atrás **girando sobre una mano** | La ejecuta sola y a la primera, sin pensarla | ejecuta sí/no | **Candado de acceso.** Va antes de cualquier posición libre |
+| 3 | **Vertical de 3 apoyos o de cabeza con asistencia** *(pared o compañera)* | 10 s con alineación | s + tipo de asistencia | Ver la nota sobre pared vs compañera |
+| 4 | **Vertical de 3 apoyos libre** | **5 s** con alineación válida, piernas juntas y estiradas | s | Piernas separadas o flexionadas |
+| 5 | **Vertical de 3 apoyos libre buscando las posiciones de espagat**, con calidad y **sin límite de tiempo** | Alcanza los espagats sin perder el equilibrio | cm por espagat + **diferencia de altura entre pies** | El paso previo al criterio de Infantil. Primero calidad, luego reloj |
+| 6 | **Criterio Alevín 2:** bajada a grúa en ≥10" y subida en ≥10", **pierna vertical inmóvil** | Cumplido | [rúbrica de 6 niveles](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) + s de cada fase + **nº de veces que se mueve la pierna vertical** | Ese movimiento es el criterio que se falla sin darse cuenta |
+| 7 | **Criterio Infantil:** bajada a espagat + rotación de ariana con 3" por espagat + subida con piernas juntas y estiradas | Cumplido | rúbrica + cm por espagat + diferencia de altura entre pies | La cadera no rota de verdad: se ve en la diferencia de altura entre pies |
+| 8 | **Pino con asistencia**, foco en la forma | 10 s alineada | s + tipo de asistencia | 🔗 **Alimenta P5 escalón 10** — ver abajo |
+| 9 | **Pino con menos asistencia** o equilibrio libre unos segundos | 3 s libre | s libres | — |
+| 10 | **Caminar en pino** alejándose de la pared y volviendo | Ida y vuelta | pasos | — |
+| 11 | **Tucked handstand:** desde pino ligeramente separado de la pared y de cara a ella, encoger piernas con flexión y compresión de cadera, y volver | Cumplido | reps | **Desarrollo futuro.** No hace falta para ningún criterio oficial |
+
+### Tres cosas que añado a tu escalera
+
+**1 · El orden de tus dos primeros escalones: el wall walk va antes que la salida.** Dijiste que no
+sabías cuál primero. El wall walk enseña a estar invertida y a **bajar controladamente**, que ya es una
+forma de salir; sobre esa base, la salida rápida girando sobre una mano se aprende con la posición ya
+conocida. Al revés se enseña a caerse de algo que todavía no se sabe sostener.
+
+**2 · Pared o compañera: depende de si tú estás delante.** Tu preferencia por la asistencia de compañera
+es correcta pedagógicamente, pero con doce niñas de 9–11 años y un solo adulto hay que separar dos
+situaciones. **En estación autónoma, pared** — la pared no se distrae ni se cansa. **Con supervisión
+directa, compañera**, que da mejor información propioceptiva y hace equipo. Y como ya quedó decidido en
+P1b: la asistencia de compañera es **método, no métrica** — no es cuantificable entre mediciones.
+
+**3 · Los escalones 8 a 11 no son criterio de nadie, pero el 8 sí hace falta.** Ninguna prueba oficial
+pide pino a dos manos: los criterios usan **vertical de 3 apoyos**. Pero el criterio de Alevín 2 en P5 es
+**pino → puente → remontada**, así que el escalón 8 de esta escalera es **prerrequisito del escalón 10 de
+P5**. Es el único cruce real entre dos patrones y conviene tenerlo presente al repartir el tiempo: el
+pino se entrena una vez y sirve a dos criterios.
+
+Los escalones 9, 10 y 11 son margen y desarrollo. Con 45 minutos, entran cuando el resto está cubierto.
 
 **En Alevín e Infantil esto no es acrobacia**, y conviene decirlo así a las entrenadoras: es control
 invertido, que es exactamente la base que ellas piden **antes** de la acrobacia. En Junior sí entra
@@ -584,7 +647,12 @@ trabajo de apoyos y acrobacia sobre colchoneta.
 
 | Estado de validación | |
 |---|---|
-| Separar P6 en apertura (P6a) y control invertido (P6b) | 🟡 mío, por la misma lógica que aceptaste en P1 |
-| Escaleras P6a y P6b y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
-| Tobilleras lastradas a partir del escalón 7 de P6a | 🟡 mío. **Aquí tu criterio manda más que el mío**: el club ya las usa y tú has visto sus tablas |
-| ¿El escalón 1 de P6b pertenece a P6 o a P4? | ❓ la alineación invertida es hollow. Puede que sea un escalón de P4 que se usa en P6 |
+| Separar P6 en apertura (P6a) y control invertido (P6b) | ✅ validado (2026-08-07) |
+| P6a: entremezclar pasivo y activo por niveles, con candado | ✅ **tu corrección.** El over-split ya no va por delante de la fuerza activa |
+| P6a: candado explícito en el escalón 8 y contrapartida activa en el 10 | 🟡 mío, implementando tu criterio |
+| P6a: tobilleras a partir del escalón 4 | 🟡 mío. **Aquí tu criterio manda más que el mío**: has visto las tablas del club |
+| P6b: escalera de 11 escalones | ✅ **es tu propuesta** |
+| P6b: la salida segura como candado y no como escalón | 🟡 mío, y es la parte que más me importa que confirmes |
+| P6b: wall walk antes de la salida segura | 🟡 mío. Tú lo dejaste abierto |
+| Cruce P6b·8 → P5·10 *(el pino sirve a dos criterios)* | 🟡 mío |
+| Criterios numéricos de las dos escaleras | 🟡 míos, provisionales hasta la línea base |
