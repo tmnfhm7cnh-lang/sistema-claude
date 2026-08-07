@@ -96,15 +96,31 @@ no pasan las puntas de los pies, extensión completa y despegue. Altura mínima:
 
 | Métrica continua | Unidad | Cómo se mide |
 |---|---|---|
-| Altura de salto media de las 10 | cm | **My Jump Lab** (app de Carlos Balsalobre) en el iPhone — ver protocolo abajo |
-| Altura de la mejor repetición | cm | Ídem |
-| Índice de fatiga: caída de altura entre las reps 1-3 y las 8-10 | % | `(media 1-3 − media 8-10) / media 1-3 × 100` |
+| Altura de la mejor repetición | cm | **My Jump Lab** (app de Carlos Balsalobre) en el iPhone — ver protocolo abajo |
 | Repeticiones que superan los 20 cm | reps de 10 | Umbral oficial (un palmo = 20 cm) |
+| **Nº de saltos válidos en los 20 s** | saltos | Se cuenta. Es la métrica de margen sobre el criterio: 11, 12, 13… |
+| Tiempo para completar las 10 | s | Cronómetro |
 | Fallos técnicos por rodilla adelantada o extensión incompleta | reps | Vídeo frontal y lateral |
 
-**Qué te dice:** el índice de fatiga separa **potencia** de **resistencia a la potencia**. Una atleta
-puede tener buen salto y perder el 30 % en 10 reps: eso es un problema distinto de tener poco salto. Y
-en un deporte de esfuerzos repetidos con apnea, la segunda cualidad importa mucho.
+> ❌ **El índice de fatiga queda fuera** *(comprobado por Daniel el 2026-08-07)*. La versión anterior de
+> esta tabla pedía *"caída de altura entre las reps 1-3 y las 8-10"* y la altura media de las 10. **No
+> hay instrumento para eso aquí:** *My Jump Lab* mide saltos individuales y series reactivas de pogo
+> jumps, pero no devuelve la altura salto a salto de una serie de 10 squat jumps. La regla 6 del
+> protocolo de abajo lo dejaba como pendiente de comprobar; comprobado, y la respuesta es no.
+>
+> **Sustituto:** el **nº de saltos válidos en los 20 s**. Se cuenta, no cuesta tiempo de sesión, es
+> continua y sin techo, y mide directamente la densidad de salto que pide el criterio oficial en vez de
+> un derivado.
+>
+> **Principio general:** una métrica que exige un instrumento que no tienes no es una métrica, es una
+> intención. Antes de anotar una unidad en esta columna hay que saber con qué se mide y cuánto tiempo de
+> sesión cuesta.
+
+**Qué te dice:** separar **potencia** de **resistencia a la potencia** sigue siendo el objetivo, y ahora
+se hace con dos números en vez de un porcentaje: la **altura del mejor salto** (potencia) y el **número
+de saltos válidos en 20 s** (resistencia a la potencia). Una atleta puede saltar alto y no sostener diez
+saltos en veinte segundos; en un deporte de esfuerzos repetidos con apnea, la segunda cualidad importa
+mucho.
 
 #### Protocolo con My Jump Lab
 
@@ -129,8 +145,10 @@ Reglas para que los números sean comparables entre mediciones:
 4. **Descalzas o siempre con el mismo calzado.**
 5. **Registrar en el `.csv` el método usado** (`myjumplab`) en la columna de observaciones. El día que
    cambies de método, los datos anteriores no se comparan con los nuevos.
-6. Para el índice de fatiga hacen falta las **10 repeticiones grabadas en una sola toma**: comprueba antes
-   que la app te da rep a rep y no solo la mejor.
+6. ~~Para el índice de fatiga hacen falta las **10 repeticiones grabadas en una sola toma**: comprueba
+   antes que la app te da rep a rep y no solo la mejor.~~ ❌ **Comprobado el 2026-08-07: no lo da.** El
+   índice de fatiga queda fuera; ver el aviso arriba. Con la app se mide **el mejor salto**, y la
+   resistencia a la potencia se mide **contando saltos válidos en 20 s**.
 
 *Alternativa sin app, si algún día no la tienes a mano:* jump-and-reach (alcance de pie contra la pared
 menos alcance en el salto). **No mezcles los dos métodos en la misma serie de datos.**

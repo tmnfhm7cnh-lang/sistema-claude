@@ -341,9 +341,9 @@ Eso **confirma** el reparto que ya estaba en la tabla de
 foco"*. Con 11 sesiones, dedicarle bloque principal sería quitárselo a P1, P4 y P6, que son sus tres
 pruebas reales.
 
-Tu sub-escalera queda aplicada donde sí hay prueba: **Alevín 2**, escalón 7. ¿Te referías a Alevín 2, o
-querías P2 en Infantil por alguna razón que no está en la batería —demandas del sculling, equilibrio de
-hombro— que convenga escribir aparte?
+Tu sub-escalera queda aplicada donde sí hay prueba: **Alevín 2**, escalón 7. ✅ **Confirmado por Daniel
+el 2026-08-07:** se refería a Alevín 2. En Infantil, P2 se mantiene como trabajo de equilibrio de hombro
+sin ser foco, tal como estaba.
 
 ### Regla general que sale de tu comentario: nadie empieza por el escalón 1
 
@@ -362,7 +362,7 @@ programación.
 | Escalones 4 y 5: plancha y flexiones en el mismo plano inclinado | ✅ **tuyos** |
 | Sub-escalera del burpee 7a–7d | ✅ **tuya**, reasignada de Infantil a Alevín 2 |
 | Criterios numéricos *(5 ciclos, 5 flexiones, 20 s…)* | 🟡 míos, provisionales hasta la línea base |
-| ¿Querías P2 en Infantil por algo que no está en la batería? | ❓ **pendiente de tu respuesta** |
+| P2 en Infantil | ✅ **cerrado**: era Alevín 2. En Infantil se mantiene sin ser foco |
 
 ---
 
@@ -390,19 +390,57 @@ series cortas y densidad controlada, no buscando el salto más alto de la vida.
 | 4 | Serie corta | **5 saltos** consecutivos ≥ 20 cm | cm por rep | Cae por debajo de 20 en el 4.º y 5.º |
 | 5 | Serie completa sin reloj | **10 saltos** ≥ 20 cm, sin límite de tiempo | cm por rep | — |
 | 6 | **Criterio Alevín 1:** 10 saltos ≥ 20 cm **en ≤20 s** | Cumplido | s + reps ≥20 cm | Llega a los 10 pero en 28 s. Aquí el limitante ya es densidad, no fuerza |
-| 7 | Resistencia a la potencia | **caída < 10 %** entre las reps 1–3 y las 8–10 | **% de caída** | — |
+| 7 | **Margen sobre el criterio:** más de 10 saltos válidos en los mismos 20 s | 11, 12, 13… | **nº de saltos válidos en 20 s** | Suma saltos bajando de los 20 cm. Solo cuentan los válidos |
 | 8 | *(rama comba, Infantil)* 30 s de comba | **30 s sin fallo** | saltos + fallos | — |
 | 9 | *(rama comba)* 60 s | **≤ 2 fallos** en el minuto | saltos + fallos + saltos seguidos máx. | — |
 | 10 | **Criterio Infantil:** 1 minuto de comba | Cumplido | saltos, fallos, y ritmo del primer y último cuarto | **El apto no lo decide el total, lo deciden los fallos.** 120 saltos con 6 tropiezos es peor que 90 seguidos |
+
+### ❌ El índice de fatiga se cae: no hay instrumento para medirlo
+
+*(corrección de Daniel, 2026-08-07)* El escalón 7 pedía **"caída < 10 % entre las reps 1–3 y las 8–10"**.
+Era una métrica copiada de las
+[métricas continuas](../../../biblioteca/metodos/metricas-continuas-bateria-seco.md) **sin comprobar que
+el instrumento la permitiera**. No la permite: *My Jump Lab* mide saltos individuales y series
+reactivas de pogo jumps para reactividad, pero no devuelve la altura salto a salto de una serie de 10
+squat jumps. Sin eso, el % de caída no se puede calcular sin material de laboratorio.
+
+Aquel documento ya lo había dejado como pendiente de comprobar — *"comprueba antes que la app te da rep
+a rep y no solo la mejor"*. **Comprobado, y la respuesta es que no.** La duda queda cerrada en negativo.
+
+> **Principio que sale de aquí, y aplica a las seis escaleras:** una métrica que exige un instrumento
+> que no tienes **no es una métrica, es una intención**. Antes de escribir un número en la columna "se
+> apunta", hay que saber con qué se mide y cuánto tiempo de sesión cuesta medirlo.
+
+**Sustituto adoptado: más de 10 saltos válidos en los mismos 20 segundos.** Es la propuesta de Daniel y
+es mejor que el índice de fatiga por cuatro razones:
+
+1. Se mide **contando**, con un móvil y sin análisis posterior. Coste de sesión: cero.
+2. Es **continua y sin techo**: 11, 12, 13 saltos. Siempre hay siguiente escalón.
+3. Mide exactamente lo que pide el criterio oficial —**densidad de salto**— en vez de un derivado.
+4. No necesita material.
+
+### Las tobilleras lastradas: sí, pero solo en Junior
+
+La otra opción que planteaste. Funciona como sobrecarga, pero tiene dos costes que la de contar saltos
+no tiene:
+
+- **Rompe la serie de datos.** Con lastre la altura baja, así que los saltos lastrados no se comparan
+  con los sin lastre: son dos series distintas y hay que anotar el peso en cada fila.
+- **Cambia el perfil de carga en el aterrizaje**, y eso con 9–11 años pide más cautela que en un adulto.
+
+**Recomendación: tobilleras en Junior**, que son 15–17 años y tienen 75 minutos de sesión. En Alevín e
+Infantil, el margen sobre el criterio se busca **añadiendo saltos, no peso**.
 
 **En Alevín, esto se hace en el patio de césped y con juego.** Es la excepción deliberada del proyecto:
 a los 9–11 años la riqueza motriz es un objetivo en sí, no un relleno. En Infantil y Junior, no.
 
 | Estado de validación | |
 |---|---|
-| **La comba entra en P3** y P3 pasa a ser "potencia y resistencia de salto" | 🟡 **decisión mía. Confírmala o dale otro sitio** |
-| Escalera P3, escalones 1–10 y sus criterios numéricos | 🟡 **míos. Sin revisar por ti** |
-| ¿El escalón 7 (resistencia a la potencia) va después del criterio oficial? | ❓ lo he puesto detrás porque es margen, no requisito. Confirma |
+| **La comba entra en P3** y P3 pasa a ser "potencia y resistencia de salto" | ✅ **validado** (2026-08-07) |
+| Escalera P3, escalones 1–6 y 8–10 | ✅ **validados** |
+| Escalón 7: el índice de fatiga era inmedible | ✅ **corregido por Daniel**. Sustituido por nº de saltos válidos en 20 s |
+| Tobilleras lastradas como sobrecarga | 🟡 **solo en Junior**, decisión mía por carga de aterrizaje en Alevín. Revisable |
+| Corregir el índice de fatiga en `metricas-continuas-bateria-seco.md` | ✅ hecho |
 
 ---
 
